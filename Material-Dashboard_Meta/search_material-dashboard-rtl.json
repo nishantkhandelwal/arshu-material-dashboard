@@ -1,0 +1,36 @@
+{
+    "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html",    
+    "StylesheetName" : "material-dashboard-rtl.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/material-dashboard-rtl.css",    
+    "HtmlTagList" : [
+        "form","div","input","button","i","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "navbar-form","input-group","no-border","form-control","btn","btn-white","btn-round","btn-just-icon","material-icons","ripple-container"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "form","div","input","button","i","html","body","main","*"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".navbar-form",".input-group",".no-border",".form-control",".btn",".btn-white",".btn-round",".btn-just-icon",".material-icons",".ripple-container"
+    ],    
+    "CssTagStyleList" : [
+        
+    ],    
+    "CssClassStyleList" : [
+        
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

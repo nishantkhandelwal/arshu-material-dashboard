@@ -1,0 +1,234 @@
+{
+    "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html",    
+    "StylesheetName" : "material-dashboard-rtl.css,material-dashboard.min.css,material-dashboard.css,all.min.css",    
+    "RelativePath" : null,    
+    "HtmlTagList" : [
+        "form","div","input","button","i","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "navbar-form","input-group","no-border","form-control","btn","btn-white","btn-round","btn-just-icon","material-icons","ripple-container"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div","input","i","main"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".navbar-form",".no-border",".btn-white",".btn-round",".btn-just-icon",".material-icons"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "form",            
+            "Value" : [
+                "form{margin-bottom:1.125rem}"
+            ]
+        },
+        {
+            "Key" : "button,input,optgroup,select,textarea",            
+            "Value" : [
+                "button,input,optgroup,select,textarea{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}"
+            ]
+        },
+        {
+            "Key" : "button,input",            
+            "Value" : [
+                "button,input{overflow:visible}"
+            ]
+        },
+        {
+            "Key" : "button",            
+            "Value" : [
+                "button{border-radius:0}"
+            ]
+        },
+        {
+            "Key" : "button,select",            
+            "Value" : [
+                "button,select{text-transform:none}"
+            ]
+        },
+        {
+            "Key" : "[type=\"reset\"],[type=\"submit\"],button,html [type=\"button\"]",            
+            "Value" : [
+                "[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:rgba(0,0,0,0)}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body{margin:0;font-family:Roboto,Helvetica,Arial,sans-serif;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fafafa}","body{background-color:#eee;color:#3c4858;font-weight:300}"
+            ]
+        },
+        {
+            "Key" : ".h1,.h2,.h3,.h4,body,h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                ".h1,.h2,.h3,.h4,body,h1,h2,h3,h4,h5,h6{font-family:Roboto,Helvetica,Arial,sans-serif;font-weight:300;line-height:1.5em}"
+            ]
+        },
+        {
+            "Key" : "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section",            
+            "Value" : [
+                "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}"
+            ]
+        },
+        {
+            "Key" : "*,::after,::before",            
+            "Value" : [
+                "*,:after,:before{box-sizing:border-box}"
+            ]
+        },
+        {
+            "Key" : "*",            
+            "Value" : [
+                "*{-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-tap-highlight-color:transparent}"
+            ]
+        },
+        {
+            "Key" : "input,button,select,optgroup,textarea",            
+            "Value" : [
+                "input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}","input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "button,html [type=\"button\"],[type=\"reset\"],[type=\"submit\"]",            
+            "Value" : [
+                "button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}","button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}"
+            ]
+        },
+        {
+            "Key" : "body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4",            
+            "Value" : [
+                "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4 {\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-weight: 300;\n  line-height: 1.5em;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}","*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".input-group",            
+            "Value" : [
+                ".input-group{position:relative;display:flex;flex-wrap:wrap;align-items:stretch;width:100%}"
+            ]
+        },
+        {
+            "Key" : ".form-control",            
+            "Value" : [
+                ".form-control{display:block;width:100%;padding:.4375rem 0;font-size:1rem;line-height:1.5;color:#495057;background-color:transparent;background-clip:padding-box;border:1px solid #d2d2d2;box-shadow:none;transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out}",".form-control{background:no-repeat bottom,50% calc(100% - 1px);background-size:0 100%,100% 100%;border:0;height:36px;transition:background 0s ease-out;padding-left:0;padding-right:0;border-radius:0;font-size:14px}"
+            ]
+        },
+        {
+            "Key" : ".form-control,.is-focused .form-control",            
+            "Value" : [
+                ".form-control,.is-focused .form-control{background-image:linear-gradient(0deg,#9c27b0 2px,rgba(156,39,176,0) 0),linear-gradient(0deg,#d2d2d2 1px,hsla(0,0%,82%,0) 0)}"
+            ]
+        },
+        {
+            "Key" : ".form-control,input::placeholder,label",            
+            "Value" : [
+                ".form-control,input::placeholder,label{line-height:1.1}"
+            ]
+        },
+        {
+            "Key" : ".btn",            
+            "Value" : [
+                ".btn{display:inline-block;text-align:center;white-space:nowrap;vertical-align:middle;user-select:none;border:1px solid transparent;padding:.46875rem 1rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out}",".btn{position:relative;padding:12px 30px;margin:.3125rem 1px;font-size:.75rem;font-weight:400;line-height:1.428571;text-decoration:none;text-transform:uppercase;letter-spacing:0;cursor:pointer;background-color:transparent;border:0;border-radius:.2rem;transition:box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1);will-change:box-shadow,transform}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus",            
+            "Value" : [
+                ".btn,.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus{outline:0}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn.btn-default",            
+            "Value" : [
+                ".btn,.btn.btn-default{color:#fff;background-color:#999;border-color:#999;box-shadow:0 2px 2px 0 hsla(0,0%,60%,.14),0 3px 1px -2px hsla(0,0%,60%,.2),0 1px 5px 0 hsla(0,0%,60%,.12)}"
+            ]
+        },
+        {
+            "Key" : ".ripple-container",            
+            "Value" : [
+                ".ripple-container{position:absolute;top:0;left:0;z-index:1;width:100%;height:100%;overflow:hidden;pointer-events:none;border-radius:inherit}"
+            ]
+        },
+        {
+            "Key" : ".form-control,\nlabel,\ninput::placeholder",            
+            "Value" : [
+                ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+        {
+            "Key" : "@media (max-width: 991px) {body,html}",            
+            "Value" : [
+                "body,html{overflow-x:hidden}"
+            ]
+        },
+        {
+            "Key" : "@media print {.container,body}",            
+            "Value" : [
+                ".container,body{min-width:992px!important}"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {body,html}_1",            
+            "Value" : [
+                "body,html{overflow-x:hidden}","body{position:relative}"
+            ]
+        },
+        {
+            "Key" : "@media print {*,:after,:before}",            
+            "Value" : [
+                "*,:after,:before{text-shadow:none!important;box-shadow:none!important}"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }",            
+            "Value" : [
+                "html,\n  body {\n    overflow-x: hidden;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {body }",            
+            "Value" : [
+                "body {\n    min-width: 992px !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }_1",            
+            "Value" : [
+                "html,\n  body {\n    overflow-x: hidden;\n  }","body {\n    position: relative;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {*,\n  *::before,\n  *::after }",            
+            "Value" : [
+                "*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }"
+            ]
+        }
+    ],    
+    "CssClassMediaList" : [
+        
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

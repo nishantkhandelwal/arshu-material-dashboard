@@ -1,0 +1,4013 @@
+{
+    "StylesheetName" : "material-dashboard-rtl.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/material-dashboard-rtl.css",    
+    "ParseTimeInSec" : 0.31,    
+    "ParseStyleTimeInSec" : 0.02,    
+    "ParseMediaTimeInSec" : 0.03,    
+    "LoadTimeInSec" : 0,    
+    "FontRuleList" : [
+        
+    ],    
+    "StyleRuleList" : [
+        
+        {
+            "Key" : "html[dir=\"rtl\"]",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"]",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] {\n  text-align: right;\n  direction: rtl;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .nav",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .nav",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .nav {\n  padding-right: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] th",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] th",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] th {\n  text-align: right;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .alert-dismissible",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .alert-dismissible",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .alert-dismissible {\n  padding-right: 1.25rem;\n  padding-left: 4rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .dropdown-menu",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .dropdown-menu",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .dropdown-menu {\n  right: 0;\n  text-align: right;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .checkbox label",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .checkbox label",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .checkbox label {\n  padding-right: 1.25rem;\n  padding-left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .btn-group>.btn:last-child:not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .btn-group>.btn:last-child:not(:first-child),html[dir=\"rtl\"] .btn-group>.dropdown-toggle:not(:first-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .btn-group > .btn:last-child:not(:first-child),\nhtml[dir=\"rtl\"] .btn-group > .dropdown-toggle:not(:first-child) {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .btn-group>.dropdown-toggle:not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .btn-group>.btn:last-child:not(:first-child),html[dir=\"rtl\"] .btn-group>.dropdown-toggle:not(:first-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .btn-group > .btn:last-child:not(:first-child),\nhtml[dir=\"rtl\"] .btn-group > .dropdown-toggle:not(:first-child) {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .btn-group>.btn-group:last-child:not(:first-child)>.btn:first-child",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .btn-group>.btn-group:last-child:not(:first-child)>.btn:first-child",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .btn-group > .btn-group:last-child:not(:first-child) > .btn:first-child {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .custom-control-label::after",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .custom-control-label::after,html[dir=\"rtl\"] .custom-control-label::before",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .custom-control-label::after,\nhtml[dir=\"rtl\"] .custom-control-label::before {\n  right: 0;\n  left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .custom-control-label::before",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .custom-control-label::after,html[dir=\"rtl\"] .custom-control-label::before",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .custom-control-label::after,\nhtml[dir=\"rtl\"] .custom-control-label::before {\n  right: 0;\n  left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .custom-select",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .custom-select",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .custom-select {\n  padding: 0.375rem 0.75rem 0.375rem 1.75rem;\n  background: #fff url(\"data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E\") no-repeat left 0.75rem center;\n  background-size: 8px 10px;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle),html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child),html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:last-child > .input-group-text:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .input-group-text {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle),html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child),html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:last-child > .input-group-text:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .input-group-text {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.btn",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle),html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child),html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:last-child > .input-group-text:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .input-group-text {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.input-group-text",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle),html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child),html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:last-child > .input-group-text:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .input-group-text {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-prepend>.btn",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle),html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child),html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:last-child > .input-group-text:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .input-group-text {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-prepend>.input-group-text",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle),html[dir=\"rtl\"] .input-group>.input-group-append:last-child>.input-group-text:not(:last-child),html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-append:not(:last-child)>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:last-child > .input-group-text:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append:not(:last-child) > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend > .input-group-text {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.btn",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.btn,html[dir=\"rtl\"] .input-group>.input-group-append>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .btn:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .input-group-text {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.input-group-text",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.btn,html[dir=\"rtl\"] .input-group>.input-group-append>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .btn:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .input-group-text {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.btn,html[dir=\"rtl\"] .input-group>.input-group-append>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .btn:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .input-group-text {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.btn,html[dir=\"rtl\"] .input-group>.input-group-append>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .btn:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .input-group-text {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.btn",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.btn,html[dir=\"rtl\"] .input-group>.input-group-append>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .btn:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .input-group-text {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.input-group-append>.btn,html[dir=\"rtl\"] .input-group>.input-group-append>.input-group-text,html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.btn:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:first-child>.input-group-text:not(:first-child),html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.btn,html[dir=\"rtl\"] .input-group>.input-group-prepend:not(:first-child)>.input-group-text",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .input-group-append > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-append > .input-group-text,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .btn:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .btn,\nhtml[dir=\"rtl\"] .input-group > .input-group-prepend:not(:first-child) > .input-group-text {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:first-child),html[dir=\"rtl\"] .input-group>.form-control:not(:first-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .custom-select:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .form-control:not(:first-child) {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.form-control:not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:first-child),html[dir=\"rtl\"] .input-group>.form-control:not(:first-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .custom-select:not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .form-control:not(:first-child) {\n  border-radius: 0.25rem 0 0 0.25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:last-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:last-child),html[dir=\"rtl\"] .input-group>.form-control:not(:last-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .custom-select:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .form-control:not(:last-child) {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.form-control:not(:last-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:last-child),html[dir=\"rtl\"] .input-group>.form-control:not(:last-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .custom-select:not(:last-child),\nhtml[dir=\"rtl\"] .input-group > .form-control:not(:last-child) {\n  border-radius: 0 0.25rem 0.25rem 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:last-child):not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:last-child):not(:first-child),html[dir=\"rtl\"] .input-group>.form-control:not(:last-child):not(:first-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .custom-select:not(:last-child):not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .form-control:not(:last-child):not(:first-child) {\n  border-radius: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .input-group>.form-control:not(:last-child):not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .input-group>.custom-select:not(:last-child):not(:first-child),html[dir=\"rtl\"] .input-group>.form-control:not(:last-child):not(:first-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .input-group > .custom-select:not(:last-child):not(:first-child),\nhtml[dir=\"rtl\"] .input-group > .form-control:not(:last-child):not(:first-child) {\n  border-radius: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .custom-control",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .custom-control",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .custom-control {\n  padding-right: 1.5rem;\n  padding-left: inherit;\n  margin-right: inherit;\n  margin-left: 1rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .custom-control-indicator",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .custom-control-indicator",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .custom-control-indicator {\n  right: 0;\n  left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .custom-file-label::after",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .custom-file-label::after",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .custom-file-label::after {\n  right: initial;\n  left: -1px;\n  border-radius: .25rem 0 0 .25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .radio input",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .radio input,html[dir=\"rtl\"] .radio-inline,html[dir=\"rtl\"] .checkbox input,html[dir=\"rtl\"] .checkbox-inline input",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .radio input,\nhtml[dir=\"rtl\"] .radio-inline,\nhtml[dir=\"rtl\"] .checkbox input,\nhtml[dir=\"rtl\"] .checkbox-inline input {\n  margin-right: -1.25rem;\n  margin-left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .radio-inline",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .radio input,html[dir=\"rtl\"] .radio-inline,html[dir=\"rtl\"] .checkbox input,html[dir=\"rtl\"] .checkbox-inline input",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .radio input,\nhtml[dir=\"rtl\"] .radio-inline,\nhtml[dir=\"rtl\"] .checkbox input,\nhtml[dir=\"rtl\"] .checkbox-inline input {\n  margin-right: -1.25rem;\n  margin-left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .checkbox input",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .radio input,html[dir=\"rtl\"] .radio-inline,html[dir=\"rtl\"] .checkbox input,html[dir=\"rtl\"] .checkbox-inline input",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .radio input,\nhtml[dir=\"rtl\"] .radio-inline,\nhtml[dir=\"rtl\"] .checkbox input,\nhtml[dir=\"rtl\"] .checkbox-inline input {\n  margin-right: -1.25rem;\n  margin-left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .checkbox-inline input",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .radio input,html[dir=\"rtl\"] .radio-inline,html[dir=\"rtl\"] .checkbox input,html[dir=\"rtl\"] .checkbox-inline input",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .radio input,\nhtml[dir=\"rtl\"] .radio-inline,\nhtml[dir=\"rtl\"] .checkbox input,\nhtml[dir=\"rtl\"] .checkbox-inline input {\n  margin-right: -1.25rem;\n  margin-left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .list-group",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .list-group",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .list-group {\n  padding-right: 0;\n  padding-left: 40px;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .close",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .close",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .close {\n  float: left;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .modal-header .close",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .modal-header .close",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .modal-header .close {\n  margin: -15px auto -15px -15px;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .modal-footer>:not(:first-child)",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .modal-footer>:not(:first-child)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .modal-footer > :not(:first-child) {\n  margin-right: .25rem;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .alert-dismissible .close",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .alert-dismissible .close",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .alert-dismissible .close {\n  right: inherit;\n  left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .dropdown-toggle::after",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .dropdown-toggle::after",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .dropdown-toggle::after {\n  margin-right: .255em;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .form-check-input",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .form-check-input",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .form-check-input {\n  margin-right: -1.25rem;\n  margin-left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .form-check-label",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .form-check-label",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .form-check-label {\n  padding-right: 1.25rem;\n  padding-left: inherit;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-1 {\n  margin-right: 8.33333%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-2 {\n  margin-right: 16.66667%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-3 {\n  margin-right: 25%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-4 {\n  margin-right: 33.33333%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-5 {\n  margin-right: 41.66667%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-6",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-6",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-6 {\n  margin-right: 50%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-7",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-7",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-7 {\n  margin-right: 58.33333%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-8",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-8",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-8 {\n  margin-right: 66.66667%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-9",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-9",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-9 {\n  margin-right: 75%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-10",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-10",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-10 {\n  margin-right: 83.33333%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-11",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .offset-11",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-11 {\n  margin-right: 91.66667%;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-0,html[dir=\"rtl\"] .mx-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-0,\nhtml[dir=\"rtl\"] .mx-0 {\n  margin-right: 0 !important;\n  margin-left: 0 !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-0,html[dir=\"rtl\"] .mx-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-0,\nhtml[dir=\"rtl\"] .mx-0 {\n  margin-right: 0 !important;\n  margin-left: 0 !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-0,html[dir=\"rtl\"] .mx-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-0,\nhtml[dir=\"rtl\"] .mx-0 {\n  margin-left: 0 !important;\n  margin-right: 0 !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-0,html[dir=\"rtl\"] .mx-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-0,\nhtml[dir=\"rtl\"] .mx-0 {\n  margin-left: 0 !important;\n  margin-right: 0 !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-1,html[dir=\"rtl\"] .mx-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-1,\nhtml[dir=\"rtl\"] .mx-1 {\n  margin-right: 0 !important;\n  margin-left: 0.25rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-1,html[dir=\"rtl\"] .mx-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-1,\nhtml[dir=\"rtl\"] .mx-1 {\n  margin-right: 0 !important;\n  margin-left: 0.25rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-1,html[dir=\"rtl\"] .mx-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-1,\nhtml[dir=\"rtl\"] .mx-1 {\n  margin-left: 0 !important;\n  margin-right: 0.25rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-1,html[dir=\"rtl\"] .mx-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-1,\nhtml[dir=\"rtl\"] .mx-1 {\n  margin-left: 0 !important;\n  margin-right: 0.25rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-2,html[dir=\"rtl\"] .mx-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-2,\nhtml[dir=\"rtl\"] .mx-2 {\n  margin-right: 0 !important;\n  margin-left: 0.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-2,html[dir=\"rtl\"] .mx-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-2,\nhtml[dir=\"rtl\"] .mx-2 {\n  margin-right: 0 !important;\n  margin-left: 0.5rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-2,html[dir=\"rtl\"] .mx-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-2,\nhtml[dir=\"rtl\"] .mx-2 {\n  margin-left: 0 !important;\n  margin-right: 0.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-2,html[dir=\"rtl\"] .mx-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-2,\nhtml[dir=\"rtl\"] .mx-2 {\n  margin-left: 0 !important;\n  margin-right: 0.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-3,html[dir=\"rtl\"] .mx-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-3,\nhtml[dir=\"rtl\"] .mx-3 {\n  margin-right: 0 !important;\n  margin-left: 1rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-3,html[dir=\"rtl\"] .mx-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-3,\nhtml[dir=\"rtl\"] .mx-3 {\n  margin-right: 0 !important;\n  margin-left: 1rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-3,html[dir=\"rtl\"] .mx-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-3,\nhtml[dir=\"rtl\"] .mx-3 {\n  margin-left: 0 !important;\n  margin-right: 1rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-3,html[dir=\"rtl\"] .mx-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-3,\nhtml[dir=\"rtl\"] .mx-3 {\n  margin-left: 0 !important;\n  margin-right: 1rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-4,html[dir=\"rtl\"] .mx-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-4,\nhtml[dir=\"rtl\"] .mx-4 {\n  margin-right: 0 !important;\n  margin-left: 1.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-4,html[dir=\"rtl\"] .mx-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-4,\nhtml[dir=\"rtl\"] .mx-4 {\n  margin-right: 0 !important;\n  margin-left: 1.5rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-4,html[dir=\"rtl\"] .mx-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-4,\nhtml[dir=\"rtl\"] .mx-4 {\n  margin-left: 0 !important;\n  margin-right: 1.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-4,html[dir=\"rtl\"] .mx-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-4,\nhtml[dir=\"rtl\"] .mx-4 {\n  margin-left: 0 !important;\n  margin-right: 1.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-5,html[dir=\"rtl\"] .mx-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-5,\nhtml[dir=\"rtl\"] .mx-5 {\n  margin-right: 0 !important;\n  margin-left: 3rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-5,html[dir=\"rtl\"] .mx-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-5,\nhtml[dir=\"rtl\"] .mx-5 {\n  margin-right: 0 !important;\n  margin-left: 3rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-5,html[dir=\"rtl\"] .mx-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-5,\nhtml[dir=\"rtl\"] .mx-5 {\n  margin-left: 0 !important;\n  margin-right: 3rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-5,html[dir=\"rtl\"] .mx-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-5,\nhtml[dir=\"rtl\"] .mx-5 {\n  margin-left: 0 !important;\n  margin-right: 3rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-0,html[dir=\"rtl\"] .px-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-0,\nhtml[dir=\"rtl\"] .px-0 {\n  padding-right: 0 !important;\n  padding-left: 0 !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-0,html[dir=\"rtl\"] .px-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-0,\nhtml[dir=\"rtl\"] .px-0 {\n  padding-right: 0 !important;\n  padding-left: 0 !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-0,html[dir=\"rtl\"] .px-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-0,\nhtml[dir=\"rtl\"] .px-0 {\n  padding-left: 0 !important;\n  padding-right: 0 !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-0,html[dir=\"rtl\"] .px-0",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-0,\nhtml[dir=\"rtl\"] .px-0 {\n  padding-left: 0 !important;\n  padding-right: 0 !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-1,html[dir=\"rtl\"] .px-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-1,\nhtml[dir=\"rtl\"] .px-1 {\n  padding-right: 0 !important;\n  padding-left: 0.25rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-1,html[dir=\"rtl\"] .px-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-1,\nhtml[dir=\"rtl\"] .px-1 {\n  padding-right: 0 !important;\n  padding-left: 0.25rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-1,html[dir=\"rtl\"] .px-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-1,\nhtml[dir=\"rtl\"] .px-1 {\n  padding-left: 0 !important;\n  padding-right: 0.25rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-1,html[dir=\"rtl\"] .px-1",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-1,\nhtml[dir=\"rtl\"] .px-1 {\n  padding-left: 0 !important;\n  padding-right: 0.25rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-2,html[dir=\"rtl\"] .px-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-2,\nhtml[dir=\"rtl\"] .px-2 {\n  padding-right: 0 !important;\n  padding-left: 0.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-2,html[dir=\"rtl\"] .px-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-2,\nhtml[dir=\"rtl\"] .px-2 {\n  padding-right: 0 !important;\n  padding-left: 0.5rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-2,html[dir=\"rtl\"] .px-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-2,\nhtml[dir=\"rtl\"] .px-2 {\n  padding-left: 0 !important;\n  padding-right: 0.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-2,html[dir=\"rtl\"] .px-2",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-2,\nhtml[dir=\"rtl\"] .px-2 {\n  padding-left: 0 !important;\n  padding-right: 0.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-3,html[dir=\"rtl\"] .px-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-3,\nhtml[dir=\"rtl\"] .px-3 {\n  padding-right: 0 !important;\n  padding-left: 1rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-3,html[dir=\"rtl\"] .px-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-3,\nhtml[dir=\"rtl\"] .px-3 {\n  padding-right: 0 !important;\n  padding-left: 1rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-3,html[dir=\"rtl\"] .px-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-3,\nhtml[dir=\"rtl\"] .px-3 {\n  padding-left: 0 !important;\n  padding-right: 1rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-3,html[dir=\"rtl\"] .px-3",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-3,\nhtml[dir=\"rtl\"] .px-3 {\n  padding-left: 0 !important;\n  padding-right: 1rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-4,html[dir=\"rtl\"] .px-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-4,\nhtml[dir=\"rtl\"] .px-4 {\n  padding-right: 0 !important;\n  padding-left: 1.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-4,html[dir=\"rtl\"] .px-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-4,\nhtml[dir=\"rtl\"] .px-4 {\n  padding-right: 0 !important;\n  padding-left: 1.5rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-4,html[dir=\"rtl\"] .px-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-4,\nhtml[dir=\"rtl\"] .px-4 {\n  padding-left: 0 !important;\n  padding-right: 1.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-4,html[dir=\"rtl\"] .px-4",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-4,\nhtml[dir=\"rtl\"] .px-4 {\n  padding-left: 0 !important;\n  padding-right: 1.5rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-5,html[dir=\"rtl\"] .px-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-5,\nhtml[dir=\"rtl\"] .px-5 {\n  padding-right: 0 !important;\n  padding-left: 3rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pr-5,html[dir=\"rtl\"] .px-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-5,\nhtml[dir=\"rtl\"] .px-5 {\n  padding-right: 0 !important;\n  padding-left: 3rem !important;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-5,html[dir=\"rtl\"] .px-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-5,\nhtml[dir=\"rtl\"] .px-5 {\n  padding-left: 0 !important;\n  padding-right: 3rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .pl-5,html[dir=\"rtl\"] .px-5",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-5,\nhtml[dir=\"rtl\"] .px-5 {\n  padding-left: 0 !important;\n  padding-right: 3rem !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-auto,html[dir=\"rtl\"] .mx-auto",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-auto,\nhtml[dir=\"rtl\"] .mx-auto {\n  margin-right: 0;\n  margin-left: auto;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .mr-auto,html[dir=\"rtl\"] .mx-auto",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-auto,\nhtml[dir=\"rtl\"] .mx-auto {\n  margin-right: 0;\n  margin-left: auto;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-auto,html[dir=\"rtl\"] .mx-auto",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-auto,\nhtml[dir=\"rtl\"] .mx-auto {\n  margin-right: auto;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .ml-auto,html[dir=\"rtl\"] .mx-auto",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-auto,\nhtml[dir=\"rtl\"] .mx-auto {\n  margin-right: auto;\n  margin-left: 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] body",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] body",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] body {\n  text-align: right;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .sidebar",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .sidebar",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .sidebar {\n  left: unset;\n  right: 0;\n}"
+                    ]
+                },
+                {
+                    "Key" : "html[dir=\"rtl\"] .sidebar,html[dir=\"rtl\"] .off-canvas-sidebar nav .navbar-collapse",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .sidebar,\nhtml[dir=\"rtl\"] .off-canvas-sidebar nav .navbar-collapse {\n  text-align: right;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .sidebar .nav i",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .sidebar .nav i",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .sidebar .nav i {\n  float: right;\n  margin-left: 15px;\n  margin-right: unset;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .main-panel",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .main-panel",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .main-panel {\n  float: left;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .card .card-header.card-header-tabs .nav-tabs-title",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .card .card-header.card-header-tabs .nav-tabs-title",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .card .card-header.card-header-tabs .nav-tabs-title {\n  float: right;\n  padding: 10px 0 10px 10px;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .card.card-chart",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .card.card-chart",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .card.card-chart {\n  direction: ltr;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .nav-tabs .nav-item .material-icons",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .nav-tabs .nav-item .material-icons",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .nav-tabs .nav-item .material-icons {\n  margin: -1px 0 0 5px;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .form-check",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .form-check",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .form-check {\n  direction: ltr;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .navbar .navbar-nav .dropdown-menu-right",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .navbar .navbar-nav .dropdown-menu-right",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .navbar .navbar-nav .dropdown-menu-right {\n  transform-origin: 0 0;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .bmd-form-group [class^=\"bmd-label\"].bmd-label-floating",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .bmd-form-group [class^=\"bmd-label\"].bmd-label-floating,html[dir=\"rtl\"] .bmd-form-group [class*=\" bmd-label\"].bmd-label-floating",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .bmd-form-group [class^='bmd-label'].bmd-label-floating,\nhtml[dir=\"rtl\"] .bmd-form-group [class*=' bmd-label'].bmd-label-floating {\n  will-change: right, top, contents;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .bmd-form-group [class*=\" bmd-label\"].bmd-label-floating",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .bmd-form-group [class^=\"bmd-label\"].bmd-label-floating,html[dir=\"rtl\"] .bmd-form-group [class*=\" bmd-label\"].bmd-label-floating",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .bmd-form-group [class^='bmd-label'].bmd-label-floating,\nhtml[dir=\"rtl\"] .bmd-form-group [class*=' bmd-label'].bmd-label-floating {\n  will-change: right, top, contents;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .is-focused .bmd-label-floating",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .is-focused .bmd-label-floating,html[dir=\"rtl\"] .is-filled .bmd-label-floating",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .is-focused .bmd-label-floating,\nhtml[dir=\"rtl\"] .is-filled .bmd-label-floating {\n  right: 0;\n  left: unset;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .is-filled .bmd-label-floating",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .is-focused .bmd-label-floating,html[dir=\"rtl\"] .is-filled .bmd-label-floating",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .is-focused .bmd-label-floating,\nhtml[dir=\"rtl\"] .is-filled .bmd-label-floating {\n  right: 0;\n  left: unset;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .alert.alert-with-icon",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .alert.alert-with-icon",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .alert.alert-with-icon {\n  padding-right: 66px;\n  padding-left: 15px;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .alert.alert-with-icon i[data-notify=\"icon\"]",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .alert.alert-with-icon i[data-notify=\"icon\"]",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .alert.alert-with-icon i[data-notify=\"icon\"] {\n  right: 15px;\n  left: unset;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .alert button.close",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .alert button.close",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .alert button.close {\n  left: 10px !important;\n  right: unset !important;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .sidebar .sidebar-wrapper .navbar-form .input-group",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .sidebar .sidebar-wrapper .navbar-form .input-group",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .sidebar .sidebar-wrapper .navbar-form .input-group {\n  padding-right: 17px;\n  padding-left: unset;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .off-canvas-sidebar nav .navbar-collapse",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .sidebar,html[dir=\"rtl\"] .off-canvas-sidebar nav .navbar-collapse",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .sidebar,\nhtml[dir=\"rtl\"] .off-canvas-sidebar nav .navbar-collapse {\n  text-align: right;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .card .card-body",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .card .card-body,html[dir=\"rtl\"] .card .card-footer",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .card .card-body, html[dir=\"rtl\"] .card .card-footer {\n  direction: rtl;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .card .card-footer",            
+            "Value" : [
+                
+                {
+                    "Key" : "html[dir=\"rtl\"] .card .card-body,html[dir=\"rtl\"] .card .card-footer",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .card .card-body, html[dir=\"rtl\"] .card .card-footer {\n  direction: rtl;\n}"
+                    ]
+                }
+            ]
+        }
+    ],    
+    "MediaRuleList" : [
+        
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-0 {\n    margin-right: 0;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-1 {\n    margin-right: 8.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-2 {\n    margin-right: 16.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-3 {\n    margin-right: 25%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-4 {\n    margin-right: 33.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-5 {\n    margin-right: 41.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-6",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-6 {\n    margin-right: 50%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-7",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-7 {\n    margin-right: 58.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-8",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-8 {\n    margin-right: 66.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-9",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-9 {\n    margin-right: 75%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-10",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-10 {\n    margin-right: 83.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-sm-11",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-sm-11 {\n    margin-right: 91.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-0 {\n    margin-right: 0;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-1 {\n    margin-right: 8.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-2 {\n    margin-right: 16.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-3 {\n    margin-right: 25%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-4 {\n    margin-right: 33.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-5 {\n    margin-right: 41.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-6",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-6 {\n    margin-right: 50%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-7",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-7 {\n    margin-right: 58.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-8",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-8 {\n    margin-right: 66.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-9",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-9 {\n    margin-right: 75%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-10",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-10 {\n    margin-right: 83.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-md-11",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-md-11 {\n    margin-right: 91.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-0 {\n    margin-right: 0;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-1 {\n    margin-right: 8.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-2 {\n    margin-right: 16.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-3 {\n    margin-right: 25%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-4 {\n    margin-right: 33.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-5 {\n    margin-right: 41.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-6",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-6 {\n    margin-right: 50%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-7",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-7 {\n    margin-right: 58.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-8",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-8 {\n    margin-right: 66.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-9",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-9 {\n    margin-right: 75%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-10",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-10 {\n    margin-right: 83.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-lg-11",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-lg-11 {\n    margin-right: 91.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-0 {\n    margin-right: 0;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-1 {\n    margin-right: 8.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-2 {\n    margin-right: 16.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-3 {\n    margin-right: 25%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-4 {\n    margin-right: 33.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-5 {\n    margin-right: 41.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-6",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-6 {\n    margin-right: 50%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-7",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-7 {\n    margin-right: 58.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-8",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-8 {\n    margin-right: 66.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-9",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-9 {\n    margin-right: 75%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-10",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-10 {\n    margin-right: 83.33333%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .offset-xl-11",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .offset-xl-11 {\n    margin-right: 91.66667%;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-sm-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-0,\n  html[dir=\"rtl\"] .mx-sm-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-sm-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-0,\n  html[dir=\"rtl\"] .mx-sm-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }","html[dir=\"rtl\"] .ml-sm-0,\n  html[dir=\"rtl\"] .mx-sm-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-sm-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-sm-0,\n  html[dir=\"rtl\"] .mx-sm-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-sm-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-1,\n  html[dir=\"rtl\"] .mx-sm-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-sm-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-1,\n  html[dir=\"rtl\"] .mx-sm-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .ml-sm-1,\n  html[dir=\"rtl\"] .mx-sm-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-sm-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-sm-1,\n  html[dir=\"rtl\"] .mx-sm-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-sm-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-2,\n  html[dir=\"rtl\"] .mx-sm-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-sm-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-2,\n  html[dir=\"rtl\"] .mx-sm-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .ml-sm-2,\n  html[dir=\"rtl\"] .mx-sm-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-sm-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-sm-2,\n  html[dir=\"rtl\"] .mx-sm-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-sm-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-3,\n  html[dir=\"rtl\"] .mx-sm-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-sm-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-3,\n  html[dir=\"rtl\"] .mx-sm-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }","html[dir=\"rtl\"] .ml-sm-3,\n  html[dir=\"rtl\"] .mx-sm-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-sm-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-sm-3,\n  html[dir=\"rtl\"] .mx-sm-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-sm-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-4,\n  html[dir=\"rtl\"] .mx-sm-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-sm-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-4,\n  html[dir=\"rtl\"] .mx-sm-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .ml-sm-4,\n  html[dir=\"rtl\"] .mx-sm-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-sm-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-sm-4,\n  html[dir=\"rtl\"] .mx-sm-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-sm-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-5,\n  html[dir=\"rtl\"] .mx-sm-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-sm-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-5,\n  html[dir=\"rtl\"] .mx-sm-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }","html[dir=\"rtl\"] .ml-sm-5,\n  html[dir=\"rtl\"] .mx-sm-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-sm-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-sm-5,\n  html[dir=\"rtl\"] .mx-sm-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-sm-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-0,\n  html[dir=\"rtl\"] .px-sm-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-sm-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-0,\n  html[dir=\"rtl\"] .px-sm-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }","html[dir=\"rtl\"] .pl-sm-0,\n  html[dir=\"rtl\"] .px-sm-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-sm-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-sm-0,\n  html[dir=\"rtl\"] .px-sm-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-sm-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-1,\n  html[dir=\"rtl\"] .px-sm-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-sm-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-1,\n  html[dir=\"rtl\"] .px-sm-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .pl-sm-1,\n  html[dir=\"rtl\"] .px-sm-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-sm-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-sm-1,\n  html[dir=\"rtl\"] .px-sm-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-sm-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-2,\n  html[dir=\"rtl\"] .px-sm-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-sm-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-2,\n  html[dir=\"rtl\"] .px-sm-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .pl-sm-2,\n  html[dir=\"rtl\"] .px-sm-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-sm-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-sm-2,\n  html[dir=\"rtl\"] .px-sm-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-sm-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-3,\n  html[dir=\"rtl\"] .px-sm-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-sm-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-3,\n  html[dir=\"rtl\"] .px-sm-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }","html[dir=\"rtl\"] .pl-sm-3,\n  html[dir=\"rtl\"] .px-sm-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-sm-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-sm-3,\n  html[dir=\"rtl\"] .px-sm-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-sm-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-4,\n  html[dir=\"rtl\"] .px-sm-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-sm-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-4,\n  html[dir=\"rtl\"] .px-sm-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .pl-sm-4,\n  html[dir=\"rtl\"] .px-sm-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-sm-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-sm-4,\n  html[dir=\"rtl\"] .px-sm-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-sm-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-5,\n  html[dir=\"rtl\"] .px-sm-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-sm-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-sm-5,\n  html[dir=\"rtl\"] .px-sm-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }","html[dir=\"rtl\"] .pl-sm-5,\n  html[dir=\"rtl\"] .px-sm-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-sm-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-sm-5,\n  html[dir=\"rtl\"] .px-sm-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-sm-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-auto,\n  html[dir=\"rtl\"] .mx-sm-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-sm-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-sm-auto,\n  html[dir=\"rtl\"] .mx-sm-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }","html[dir=\"rtl\"] .ml-sm-auto,\n  html[dir=\"rtl\"] .mx-sm-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-sm-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 576px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-sm-auto,\n  html[dir=\"rtl\"] .mx-sm-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-md-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-0,\n  html[dir=\"rtl\"] .mx-md-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-md-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-0,\n  html[dir=\"rtl\"] .mx-md-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }","html[dir=\"rtl\"] .ml-md-0,\n  html[dir=\"rtl\"] .mx-md-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-md-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-md-0,\n  html[dir=\"rtl\"] .mx-md-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-md-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-1,\n  html[dir=\"rtl\"] .mx-md-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-md-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-1,\n  html[dir=\"rtl\"] .mx-md-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .ml-md-1,\n  html[dir=\"rtl\"] .mx-md-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-md-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-md-1,\n  html[dir=\"rtl\"] .mx-md-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-md-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-2,\n  html[dir=\"rtl\"] .mx-md-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-md-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-2,\n  html[dir=\"rtl\"] .mx-md-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .ml-md-2,\n  html[dir=\"rtl\"] .mx-md-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-md-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-md-2,\n  html[dir=\"rtl\"] .mx-md-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-md-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-3,\n  html[dir=\"rtl\"] .mx-md-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-md-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-3,\n  html[dir=\"rtl\"] .mx-md-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }","html[dir=\"rtl\"] .ml-md-3,\n  html[dir=\"rtl\"] .mx-md-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-md-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-md-3,\n  html[dir=\"rtl\"] .mx-md-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-md-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-4,\n  html[dir=\"rtl\"] .mx-md-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-md-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-4,\n  html[dir=\"rtl\"] .mx-md-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .ml-md-4,\n  html[dir=\"rtl\"] .mx-md-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-md-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-md-4,\n  html[dir=\"rtl\"] .mx-md-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-md-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-5,\n  html[dir=\"rtl\"] .mx-md-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-md-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-5,\n  html[dir=\"rtl\"] .mx-md-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }","html[dir=\"rtl\"] .ml-md-5,\n  html[dir=\"rtl\"] .mx-md-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-md-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-md-5,\n  html[dir=\"rtl\"] .mx-md-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-md-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-0,\n  html[dir=\"rtl\"] .px-md-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-md-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-0,\n  html[dir=\"rtl\"] .px-md-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }","html[dir=\"rtl\"] .pl-md-0,\n  html[dir=\"rtl\"] .px-md-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-md-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-md-0,\n  html[dir=\"rtl\"] .px-md-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-md-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-1,\n  html[dir=\"rtl\"] .px-md-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-md-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-1,\n  html[dir=\"rtl\"] .px-md-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .pl-md-1,\n  html[dir=\"rtl\"] .px-md-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-md-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-md-1,\n  html[dir=\"rtl\"] .px-md-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-md-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-2,\n  html[dir=\"rtl\"] .px-md-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-md-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-2,\n  html[dir=\"rtl\"] .px-md-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .pl-md-2,\n  html[dir=\"rtl\"] .px-md-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-md-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-md-2,\n  html[dir=\"rtl\"] .px-md-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-md-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-3,\n  html[dir=\"rtl\"] .px-md-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-md-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-3,\n  html[dir=\"rtl\"] .px-md-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }","html[dir=\"rtl\"] .pl-md-3,\n  html[dir=\"rtl\"] .px-md-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-md-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-md-3,\n  html[dir=\"rtl\"] .px-md-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-md-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-4,\n  html[dir=\"rtl\"] .px-md-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-md-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-4,\n  html[dir=\"rtl\"] .px-md-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .pl-md-4,\n  html[dir=\"rtl\"] .px-md-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-md-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-md-4,\n  html[dir=\"rtl\"] .px-md-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-md-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-5,\n  html[dir=\"rtl\"] .px-md-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-md-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-md-5,\n  html[dir=\"rtl\"] .px-md-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }","html[dir=\"rtl\"] .pl-md-5,\n  html[dir=\"rtl\"] .px-md-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-md-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-md-5,\n  html[dir=\"rtl\"] .px-md-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-md-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-auto,\n  html[dir=\"rtl\"] .mx-md-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-md-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-md-auto,\n  html[dir=\"rtl\"] .mx-md-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }","html[dir=\"rtl\"] .ml-md-auto,\n  html[dir=\"rtl\"] .mx-md-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-md-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 768px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-md-auto,\n  html[dir=\"rtl\"] .mx-md-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-lg-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-0,\n  html[dir=\"rtl\"] .mx-lg-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-lg-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-0,\n  html[dir=\"rtl\"] .mx-lg-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }","html[dir=\"rtl\"] .ml-lg-0,\n  html[dir=\"rtl\"] .mx-lg-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-lg-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-lg-0,\n  html[dir=\"rtl\"] .mx-lg-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-lg-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-1,\n  html[dir=\"rtl\"] .mx-lg-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-lg-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-1,\n  html[dir=\"rtl\"] .mx-lg-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .ml-lg-1,\n  html[dir=\"rtl\"] .mx-lg-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-lg-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-lg-1,\n  html[dir=\"rtl\"] .mx-lg-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-lg-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-2,\n  html[dir=\"rtl\"] .mx-lg-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-lg-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-2,\n  html[dir=\"rtl\"] .mx-lg-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .ml-lg-2,\n  html[dir=\"rtl\"] .mx-lg-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-lg-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-lg-2,\n  html[dir=\"rtl\"] .mx-lg-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-lg-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-3,\n  html[dir=\"rtl\"] .mx-lg-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-lg-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-3,\n  html[dir=\"rtl\"] .mx-lg-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }","html[dir=\"rtl\"] .ml-lg-3,\n  html[dir=\"rtl\"] .mx-lg-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-lg-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-lg-3,\n  html[dir=\"rtl\"] .mx-lg-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-lg-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-4,\n  html[dir=\"rtl\"] .mx-lg-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-lg-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-4,\n  html[dir=\"rtl\"] .mx-lg-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .ml-lg-4,\n  html[dir=\"rtl\"] .mx-lg-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-lg-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-lg-4,\n  html[dir=\"rtl\"] .mx-lg-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-lg-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-5,\n  html[dir=\"rtl\"] .mx-lg-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-lg-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-5,\n  html[dir=\"rtl\"] .mx-lg-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }","html[dir=\"rtl\"] .ml-lg-5,\n  html[dir=\"rtl\"] .mx-lg-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-lg-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-lg-5,\n  html[dir=\"rtl\"] .mx-lg-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-lg-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-0,\n  html[dir=\"rtl\"] .px-lg-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-lg-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-0,\n  html[dir=\"rtl\"] .px-lg-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }","html[dir=\"rtl\"] .pl-lg-0,\n  html[dir=\"rtl\"] .px-lg-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-lg-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-lg-0,\n  html[dir=\"rtl\"] .px-lg-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-lg-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-1,\n  html[dir=\"rtl\"] .px-lg-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-lg-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-1,\n  html[dir=\"rtl\"] .px-lg-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .pl-lg-1,\n  html[dir=\"rtl\"] .px-lg-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-lg-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-lg-1,\n  html[dir=\"rtl\"] .px-lg-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-lg-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-2,\n  html[dir=\"rtl\"] .px-lg-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-lg-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-2,\n  html[dir=\"rtl\"] .px-lg-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .pl-lg-2,\n  html[dir=\"rtl\"] .px-lg-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-lg-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-lg-2,\n  html[dir=\"rtl\"] .px-lg-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-lg-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-3,\n  html[dir=\"rtl\"] .px-lg-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-lg-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-3,\n  html[dir=\"rtl\"] .px-lg-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }","html[dir=\"rtl\"] .pl-lg-3,\n  html[dir=\"rtl\"] .px-lg-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-lg-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-lg-3,\n  html[dir=\"rtl\"] .px-lg-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-lg-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-4,\n  html[dir=\"rtl\"] .px-lg-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-lg-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-4,\n  html[dir=\"rtl\"] .px-lg-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .pl-lg-4,\n  html[dir=\"rtl\"] .px-lg-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-lg-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-lg-4,\n  html[dir=\"rtl\"] .px-lg-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-lg-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-5,\n  html[dir=\"rtl\"] .px-lg-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-lg-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-lg-5,\n  html[dir=\"rtl\"] .px-lg-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }","html[dir=\"rtl\"] .pl-lg-5,\n  html[dir=\"rtl\"] .px-lg-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-lg-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-lg-5,\n  html[dir=\"rtl\"] .px-lg-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-lg-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-auto,\n  html[dir=\"rtl\"] .mx-lg-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-lg-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-lg-auto,\n  html[dir=\"rtl\"] .mx-lg-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }","html[dir=\"rtl\"] .ml-lg-auto,\n  html[dir=\"rtl\"] .mx-lg-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-lg-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-lg-auto,\n  html[dir=\"rtl\"] .mx-lg-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-xl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-0,\n  html[dir=\"rtl\"] .mx-xl-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-xl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-0,\n  html[dir=\"rtl\"] .mx-xl-0 {\n    margin-right: 0 !important;\n    margin-left: 0 !important;\n  }","html[dir=\"rtl\"] .ml-xl-0,\n  html[dir=\"rtl\"] .mx-xl-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-xl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-xl-0,\n  html[dir=\"rtl\"] .mx-xl-0 {\n    margin-left: 0 !important;\n    margin-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-xl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-1,\n  html[dir=\"rtl\"] .mx-xl-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-xl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-1,\n  html[dir=\"rtl\"] .mx-xl-1 {\n    margin-right: 0 !important;\n    margin-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .ml-xl-1,\n  html[dir=\"rtl\"] .mx-xl-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-xl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-xl-1,\n  html[dir=\"rtl\"] .mx-xl-1 {\n    margin-left: 0 !important;\n    margin-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-xl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-2,\n  html[dir=\"rtl\"] .mx-xl-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-xl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-2,\n  html[dir=\"rtl\"] .mx-xl-2 {\n    margin-right: 0 !important;\n    margin-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .ml-xl-2,\n  html[dir=\"rtl\"] .mx-xl-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-xl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-xl-2,\n  html[dir=\"rtl\"] .mx-xl-2 {\n    margin-left: 0 !important;\n    margin-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-xl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-3,\n  html[dir=\"rtl\"] .mx-xl-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-xl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-3,\n  html[dir=\"rtl\"] .mx-xl-3 {\n    margin-right: 0 !important;\n    margin-left: 1rem !important;\n  }","html[dir=\"rtl\"] .ml-xl-3,\n  html[dir=\"rtl\"] .mx-xl-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-xl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-xl-3,\n  html[dir=\"rtl\"] .mx-xl-3 {\n    margin-left: 0 !important;\n    margin-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-xl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-4,\n  html[dir=\"rtl\"] .mx-xl-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-xl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-4,\n  html[dir=\"rtl\"] .mx-xl-4 {\n    margin-right: 0 !important;\n    margin-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .ml-xl-4,\n  html[dir=\"rtl\"] .mx-xl-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-xl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-xl-4,\n  html[dir=\"rtl\"] .mx-xl-4 {\n    margin-left: 0 !important;\n    margin-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-xl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-5,\n  html[dir=\"rtl\"] .mx-xl-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-xl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-5,\n  html[dir=\"rtl\"] .mx-xl-5 {\n    margin-right: 0 !important;\n    margin-left: 3rem !important;\n  }","html[dir=\"rtl\"] .ml-xl-5,\n  html[dir=\"rtl\"] .mx-xl-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-xl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-xl-5,\n  html[dir=\"rtl\"] .mx-xl-5 {\n    margin-left: 0 !important;\n    margin-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-xl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-0,\n  html[dir=\"rtl\"] .px-xl-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-xl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-0,\n  html[dir=\"rtl\"] .px-xl-0 {\n    padding-right: 0 !important;\n    padding-left: 0 !important;\n  }","html[dir=\"rtl\"] .pl-xl-0,\n  html[dir=\"rtl\"] .px-xl-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-xl-0",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-xl-0,\n  html[dir=\"rtl\"] .px-xl-0 {\n    padding-left: 0 !important;\n    padding-right: 0 !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-xl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-1,\n  html[dir=\"rtl\"] .px-xl-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-xl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-1,\n  html[dir=\"rtl\"] .px-xl-1 {\n    padding-right: 0 !important;\n    padding-left: 0.25rem !important;\n  }","html[dir=\"rtl\"] .pl-xl-1,\n  html[dir=\"rtl\"] .px-xl-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-xl-1",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-xl-1,\n  html[dir=\"rtl\"] .px-xl-1 {\n    padding-left: 0 !important;\n    padding-right: 0.25rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-xl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-2,\n  html[dir=\"rtl\"] .px-xl-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-xl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-2,\n  html[dir=\"rtl\"] .px-xl-2 {\n    padding-right: 0 !important;\n    padding-left: 0.5rem !important;\n  }","html[dir=\"rtl\"] .pl-xl-2,\n  html[dir=\"rtl\"] .px-xl-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-xl-2",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-xl-2,\n  html[dir=\"rtl\"] .px-xl-2 {\n    padding-left: 0 !important;\n    padding-right: 0.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-xl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-3,\n  html[dir=\"rtl\"] .px-xl-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-xl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-3,\n  html[dir=\"rtl\"] .px-xl-3 {\n    padding-right: 0 !important;\n    padding-left: 1rem !important;\n  }","html[dir=\"rtl\"] .pl-xl-3,\n  html[dir=\"rtl\"] .px-xl-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-xl-3",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-xl-3,\n  html[dir=\"rtl\"] .px-xl-3 {\n    padding-left: 0 !important;\n    padding-right: 1rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-xl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-4,\n  html[dir=\"rtl\"] .px-xl-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-xl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-4,\n  html[dir=\"rtl\"] .px-xl-4 {\n    padding-right: 0 !important;\n    padding-left: 1.5rem !important;\n  }","html[dir=\"rtl\"] .pl-xl-4,\n  html[dir=\"rtl\"] .px-xl-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-xl-4",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-xl-4,\n  html[dir=\"rtl\"] .px-xl-4 {\n    padding-left: 0 !important;\n    padding-right: 1.5rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pr-xl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-5,\n  html[dir=\"rtl\"] .px-xl-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .px-xl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pr-xl-5,\n  html[dir=\"rtl\"] .px-xl-5 {\n    padding-right: 0 !important;\n    padding-left: 3rem !important;\n  }","html[dir=\"rtl\"] .pl-xl-5,\n  html[dir=\"rtl\"] .px-xl-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .pl-xl-5",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .pl-xl-5,\n  html[dir=\"rtl\"] .px-xl-5 {\n    padding-left: 0 !important;\n    padding-right: 3rem !important;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mr-xl-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-auto,\n  html[dir=\"rtl\"] .mx-xl-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .mx-xl-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .mr-xl-auto,\n  html[dir=\"rtl\"] .mx-xl-auto {\n    margin-right: 0;\n    margin-left: auto;\n  }","html[dir=\"rtl\"] .ml-xl-auto,\n  html[dir=\"rtl\"] .mx-xl-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .ml-xl-auto",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 1200px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .ml-xl-auto,\n  html[dir=\"rtl\"] .mx-xl-auto {\n    margin-right: auto;\n    margin-left: 0;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .navbar-expand-lg .navbar-nav .dropdown-menu-right",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .navbar-expand-lg .navbar-nav .dropdown-menu-right {\n    left: 0;\n    right: auto;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .navbar-form .btn",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (max-width: 991px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .navbar-form .btn {\n    left: -50px;\n    right: unset;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .navbar-expand-lg>.container",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .navbar-expand-lg > .container,\n  html[dir=\"rtl\"] .navbar-expand-lg > .container-fluid {\n    flex-wrap: nowrap;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] .navbar-expand-lg>.container-fluid",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (min-width: 992px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] .navbar-expand-lg > .container,\n  html[dir=\"rtl\"] .navbar-expand-lg > .container-fluid {\n    flex-wrap: nowrap;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] [class*=\"navbar-expand-\"]>.container",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (max-width: 991px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] [class*=\"navbar-expand-\"] > .container,\n  html[dir=\"rtl\"] [class*=\"navbar-expand-\"] > .container-fluid {\n    flex-direction: row-reverse;\n  }"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "html[dir=\"rtl\"] [class*=\"navbar-expand-\"]>.container-fluid",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (max-width: 991px)",                    
+                    "Value" : [
+                        "html[dir=\"rtl\"] [class*=\"navbar-expand-\"] > .container,\n  html[dir=\"rtl\"] [class*=\"navbar-expand-\"] > .container-fluid {\n    flex-direction: row-reverse;\n  }"
+                    ]
+                }
+            ]
+        }
+    ]
+}

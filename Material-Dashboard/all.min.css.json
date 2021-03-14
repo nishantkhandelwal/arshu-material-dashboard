@@ -1,8 +1,8 @@
 {
     "StylesheetName" : "all.min.css",    
-    "RelativePath" : "Templates\\CreativeTimTailwindComponents\\CreativeTim\\all.min.css",    
-    "ParseTimeInSec" : 0.01,    
-    "ParseStyleTimeInSec" : 0.07,    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/all.min.css",    
+    "ParseTimeInSec" : 0.02,    
+    "ParseStyleTimeInSec" : 0.24,    
     "ParseMediaTimeInSec" : 0,    
     "LoadTimeInSec" : 0,    
     "FontRuleList" : [
@@ -17,11 +17,11 @@
                 },
                 {
                     "Key" : "webfonts/fa-brands-400.woff2",                    
-                    "Value" : "webfonts\\fa-brands-400.woff2"
+                    "Value" : "webfonts/fa-brands-400.woff2"
                 },
                 {
                     "Key" : "webfonts/fa-brands-400.woff",                    
-                    "Value" : "webfonts\\fa-brands-400.woff"
+                    "Value" : "webfonts/fa-brands-400.woff"
                 },
                 {
                     "Key" : "webfonts/fa-brands-400.ttf",                    
@@ -43,11 +43,11 @@
                 },
                 {
                     "Key" : "webfonts/fa-regular-400.woff2",                    
-                    "Value" : "webfonts\\fa-regular-400.woff2"
+                    "Value" : "webfonts/fa-regular-400.woff2"
                 },
                 {
                     "Key" : "webfonts/fa-regular-400.woff",                    
-                    "Value" : "webfonts\\fa-regular-400.woff"
+                    "Value" : "webfonts/fa-regular-400.woff"
                 },
                 {
                     "Key" : "webfonts/fa-regular-400.ttf",                    
@@ -69,11 +69,11 @@
                 },
                 {
                     "Key" : "webfonts/fa-solid-900.woff2",                    
-                    "Value" : "webfonts\\fa-solid-900.woff2"
+                    "Value" : "webfonts/fa-solid-900.woff2"
                 },
                 {
                     "Key" : "webfonts/fa-solid-900.woff",                    
-                    "Value" : "webfonts\\fa-solid-900.woff"
+                    "Value" : "webfonts/fa-solid-900.woff"
                 },
                 {
                     "Key" : "webfonts/fa-solid-900.ttf",                    
