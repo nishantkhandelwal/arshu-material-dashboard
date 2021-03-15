@@ -167,8 +167,83 @@
     "CssFontFaceList" : [
         
     ],    
-    "CssTagMeta" : null,    
-    "CssClassMeta" : null,    
-    "CssTagMediaMeta" : null,    
+    "CssTagMeta" : 
+    {
+        "form" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "input,button,select,optgroup,textarea" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "button,input" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "button" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "button,select" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "button,html [type=\"button\"],[type=\"reset\"],[type=\"submit\"]" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "html" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "body" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "*,*::before,*::after" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "*" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ]
+    },    
+    "CssClassMeta" : 
+    {
+        ".input-group" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        ".form-control" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        ".form-control,.is-focused .form-control" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        ".form-control,\nlabel,\ninput::placeholder" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        ".btn" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        ".btn,.btn.btn-default" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        ".ripple-container" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ]
+    },    
+    "CssTagMediaMeta" : 
+    {
+        "@media (max-width: 991px) {html,\n  body }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "@media print {body }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "@media (max-width: 991px) {html,\n  body }_1" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ],        
+        "@media print {*,\n  *::before,\n  *::after }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        ]
+    },    
     "CssClassMediaMeta" : null
 }

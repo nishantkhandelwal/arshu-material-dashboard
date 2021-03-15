@@ -1,0 +1,14 @@
+{
+    "@media (max-width: 991px) {html,\n  body }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+    ],    
+    "@media print {body }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+    ],    
+    "@media (max-width: 991px) {html,\n  body }_1" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+    ],    
+    "@media print {*,\n  *::before,\n  *::after }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+    ]
+}

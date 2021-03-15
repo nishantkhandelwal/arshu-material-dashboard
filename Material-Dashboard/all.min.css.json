@@ -1,8 +1,8 @@
 {
     "StylesheetName" : "all.min.css",    
     "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/all.min.css",    
-    "ParseTimeInSec" : 0.02,    
-    "ParseStyleTimeInSec" : 0.24,    
+    "ParseTimeInSec" : 0.01,    
+    "ParseStyleTimeInSec" : 0.26,    
     "ParseMediaTimeInSec" : 0,    
     "LoadTimeInSec" : 0,    
     "FontRuleList" : [

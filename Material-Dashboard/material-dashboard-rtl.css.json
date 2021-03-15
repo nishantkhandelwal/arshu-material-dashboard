@@ -1,9 +1,9 @@
 {
     "StylesheetName" : "material-dashboard-rtl.css",    
     "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/material-dashboard-rtl.css",    
-    "ParseTimeInSec" : 0.31,    
-    "ParseStyleTimeInSec" : 0.02,    
-    "ParseMediaTimeInSec" : 0.03,    
+    "ParseTimeInSec" : 0.01,    
+    "ParseStyleTimeInSec" : 0.01,    
+    "ParseMediaTimeInSec" : 0.02,    
     "LoadTimeInSec" : 0,    
     "FontRuleList" : [
         
