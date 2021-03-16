@@ -1,6 +1,6 @@
 {
     "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html",    
-    "StylesheetName" : "material-dashboard-rtl.css,material-dashboard.min.css,material-dashboard.css,all.min.css",    
+    "StylesheetName" : "material-dashboard-rtl.css,font.google.css,material-dashboard.min.css,material-dashboard.css,all.min.css,dynamic.css,material-dashboard_class.css,material-dashboard_tag_media.css,material-dashboard_tag.css",    
     "RelativePath" : null,    
     "HtmlTagList" : [
         "form","div","input","button","i","html","body","main","*"
@@ -12,7 +12,7 @@
         "div","input","i","main"
     ],    
     "HtmlClassUnMatchedList" : [
-        ".navbar-form",".no-border",".btn-white",".btn-round",".btn-just-icon",".material-icons"
+        ".navbar-form",".no-border",".btn-white",".btn-round",".btn-just-icon"
     ],    
     "CssTagStyleList" : [
         
@@ -111,10 +111,22 @@
             "Value" : [
                 "*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}","*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}"
             ]
+        },
+        {
+            "Key" : ".form-control,\nlabel,\ninput::placeholder",            
+            "Value" : [
+                ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+            ]
         }
     ],    
     "CssClassStyleList" : [
         
+        {
+            "Key" : ".material-icons",            
+            "Value" : [
+                ".material-icons {\n    font-family: 'Material Icons';\n    font-weight: normal;\n    font-style: normal;\n    font-size: 24px;\n    line-height: 1;\n    letter-spacing: normal;\n    text-transform: none;\n    display: inline-block;\n    white-space: nowrap;\n    word-wrap: normal;\n    direction: ltr;\n    -webkit-font-feature-settings: 'liga';\n    -webkit-font-smoothing: antialiased;\n  }"
+            ]
+        },
         {
             "Key" : ".input-group",            
             "Value" : [
@@ -218,6 +230,18 @@
             "Key" : "@media print {*,\n  *::before,\n  *::after }",            
             "Value" : [
                 "*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {body,html}}",            
+            "Value" : [
+                "body,html}{\nbody,html{overflow-x:hidden}\nbody,html{overflow-x:hidden}\nbody{position:relative}\n}\n@media print {.container,body}{\n.container,body{min-width:992px!important}\n}\n@media print {*,:after,:before}{\n*,:after,:before{text-shadow:none!important;box-shadow:none!important}\n}\n\nform {\n  margin-bottom: 1.125rem;\n}\n\ninput,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}\ninput,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}\n\nbutton,\ninput {\n  overflow: visible;\n}\nbutton,\ninput {\n  overflow: visible;\n}\n\nbutton {\n  border-radius: 0;\n}\nbutton {\n  border-radius: 0;\n}\n\nbutton,\nselect {\n  text-transform: none;\n}\nbutton,\nselect {\n  text-transform: none;\n}\n\nbutton,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}\nbutton,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}\n\nhtml {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\nhtml {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n\nbody {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}\nbody {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}\nbody {\n  background-color: #eee;\n  color: #3C4858;\n  font-weight: 300;\n}\n\nbody,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4 {\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-weight: 300;\n  line-height: 1.5em;\n}\n\narticle,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}\narticle,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}\n\n*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\n* {\n  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);\n  -webkit-tap-highlight-color: transparent;\n}\n\n.input-group {\n  position: relative;\n  display: flex;\n  flex-wrap: wrap;\n  align-items: stretch;\n  width: 100%;\n}\n\n.form-control {\n  display: block;\n  width: 100%;\n  padding: 0.4375rem 0;\n  font-size: 1rem;\n  line-height: 1.5;\n  color: #495057;\n  background-color: rgba(0, 0, 0, 0);\n  background-clip: padding-box;\n  border: 1px solid #d2d2d2;\n  border-radius: 0;\n  box-shadow: none;\n  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}\n.form-control {\n  background: no-repeat center bottom, center calc(100% - 1px);\n  background-size: 0 100%, 100% 100%;\n  border: 0;\n  height: 36px;\n  transition: background 0s ease-out;\n  padding-left: 0;\n  padding-right: 0;\n  border-radius: 0;\n  font-size: 14px;\n}\n\n.form-control,\n.is-focused .form-control {\n  background-image: linear-gradient(to top, #9c27b0 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);\n}\n\n.form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}\n\n.btn {\n  display: inline-block;\n  font-weight: 400;\n  text-align: center;\n  white-space: nowrap;\n  vertical-align: middle;\n  user-select: none;\n  border: 1px solid transparent;\n  padding: 0.46875rem 1rem;\n  font-size: 1rem;\n  line-height: 1.5;\n  border-radius: 0.25rem;\n  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}\n.btn {\n  position: relative;\n  padding: 12px 30px;\n  margin: 0.3125rem 1px;\n  font-size: .75rem;\n  font-weight: 400;\n  line-height: 1.428571;\n  text-decoration: none;\n  text-transform: uppercase;\n  letter-spacing: 0;\n  cursor: pointer;\n  background-color: transparent;\n  border: 0;\n  border-radius: 0.2rem;\n  outline: 0;\n  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);\n  will-change: box-shadow, transform;\n}\n\n.btn,\n.btn.btn-default {\n  color: #fff;\n  background-color: #999999;\n  border-color: #999999;\n  box-shadow: 0 2px 2px 0 rgba(153, 153, 153, 0.14), 0 3px 1px -2px rgba(153, 153, 153, 0.2), 0 1px 5px 0 rgba(153, 153, 153, 0.12);\n}\n\n.ripple-container {\n  position: absolute;\n  top: 0;\n  left: 0;\n  z-index: 1;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n  pointer-events: none;\n  border-radius: inherit;\n}\n\n\n\n\n@media (max-width: 991px) {html,\n  body }{\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nbody {\n    position: relative;\n  }\n}\n@media print {body }{\nbody {\n    min-width: 992px !important;\n  }\n}\n@media print {*,\n  *::before,\n  *::after }{\n*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }\n}\n\n"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }}",            
+            "Value" : [
+                "html,\n  body }{\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nbody {\n    position: relative;\n  }\n}\n@media print {body }{\nbody {\n    min-width: 992px !important;\n  }\n}\n@media print {*,\n  *::before,\n  *::after }{\n*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }\n}"
             ]
         }
     ],    

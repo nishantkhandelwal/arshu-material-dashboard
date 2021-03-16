@@ -1,0 +1,114 @@
+{
+    "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html",    
+    "StylesheetName" : "all.min.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/all.min.css",    
+    "HtmlTagList" : [
+        "div","form","span","input","button","i","ul","li","a","p","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "collapse","navbar-collapse","justify-content-end","navbar-form","bmd-form-group","input-group","no-border","form-control","btn","btn-white","btn-round","btn-just-icon","material-icons","ripple-container","navbar-nav","nav-item","nav-link","d-lg-none","d-md-block","dropdown","notification","dropdown-menu","dropdown-menu-right","dropdown-item","ripple-decorator","ripple-on","ripple-out","dropdown-divider"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div","form","span","input","button","i","ul","li","a","p","html","body","main","*"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".collapse",".navbar-collapse",".justify-content-end",".navbar-form",".bmd-form-group",".input-group",".no-border",".form-control",".btn",".btn-white",".btn-round",".btn-just-icon",".material-icons",".ripple-container",".navbar-nav",".nav-item",".nav-link",".d-lg-none",".d-md-block",".dropdown",".notification",".dropdown-menu",".dropdown-menu-right",".dropdown-item",".ripple-decorator",".ripple-on",".ripple-out",".dropdown-divider"
+    ],    
+    "CssTagStyleList" : [
+        
+    ],    
+    "CssClassStyleList" : [
+        
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+    ],    
+    "CssFontFaceList" : [
+        
+        {
+            "Key" : "@font-face { font-family: \"Font Awesome 5 Brands\"; font-style: normal; font-weight: normal; font-display: auto; src: url(\"webfonts/fa-brands-400.eot?#iefix\") format(\"embedded-opentype\"), url(\"webfonts/fa-brands-400.woff2\") format(\"woff2\"), url(\"webfonts/fa-brands-400.woff\") format(\"woff\"), url(\"webfonts/fa-brands-400.ttf\") format(\"truetype\"), url(\"webfonts/fa-brands-400.svg#fontawesome\") format(\"svg\") }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/fa-brands-400.eot?#iefix",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.woff2",                    
+                    "Value" : "webfonts/fa-brands-400.woff2"
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.woff",                    
+                    "Value" : "webfonts/fa-brands-400.woff"
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.ttf",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-brands-400.svg#fontawesome",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 400; font-display: auto; src: url(\"webfonts/fa-regular-400.eot?#iefix\") format(\"embedded-opentype\"), url(\"webfonts/fa-regular-400.woff2\") format(\"woff2\"), url(\"webfonts/fa-regular-400.woff\") format(\"woff\"), url(\"webfonts/fa-regular-400.ttf\") format(\"truetype\"), url(\"webfonts/fa-regular-400.svg#fontawesome\") format(\"svg\") }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/fa-regular-400.eot?#iefix",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.woff2",                    
+                    "Value" : "webfonts/fa-regular-400.woff2"
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.woff",                    
+                    "Value" : "webfonts/fa-regular-400.woff"
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.ttf",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-regular-400.svg#fontawesome",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 900; font-display: auto; src: url(\"webfonts/fa-solid-900.eot?#iefix\") format(\"embedded-opentype\"), url(\"webfonts/fa-solid-900.woff2\") format(\"woff2\"), url(\"webfonts/fa-solid-900.woff\") format(\"woff\"), url(\"webfonts/fa-solid-900.ttf\") format(\"truetype\"), url(\"webfonts/fa-solid-900.svg#fontawesome\") format(\"svg\") }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/fa-solid-900.eot?#iefix",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.woff2",                    
+                    "Value" : "webfonts/fa-solid-900.woff2"
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.woff",                    
+                    "Value" : "webfonts/fa-solid-900.woff"
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.ttf",                    
+                    "Value" : ""
+                },
+                {
+                    "Key" : "webfonts/fa-solid-900.svg#fontawesome",                    
+                    "Value" : ""
+                }
+            ]
+        }
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

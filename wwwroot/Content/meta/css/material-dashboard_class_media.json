@@ -1,0 +1,20 @@
+{
+    "@media all and (max-width: 991px) {.navbar-collapse }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "@media (max-width: 991px) {.main-panel,\n  .navbar-collapse }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "@media (max-width: 991px) {.navbar-nav }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "@media (min-width: 992px) {.d-lg-none }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "@media (min-width: 768px) {.d-md-block }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "@media (max-width: 991px) {.dropdown-menu }" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ]
+}

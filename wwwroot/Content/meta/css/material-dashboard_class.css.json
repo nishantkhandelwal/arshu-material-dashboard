@@ -1,0 +1,131 @@
+{
+    "StylesheetName" : "material-dashboard_class.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/wwwroot/Content/meta/css/material-dashboard_class.css",    
+    "ParseTimeInSec" : 0,    
+    "ParseStyleTimeInSec" : 0,    
+    "ParseMediaTimeInSec" : 0,    
+    "LoadTimeInSec" : 0,    
+    "FontRuleList" : [
+        
+    ],    
+    "StyleRuleList" : [
+        
+        {
+            "Key" : ".input-group",            
+            "Value" : [
+                
+                {
+                    "Key" : ".input-group",                    
+                    "Value" : [
+                        ".input-group {\n  position: relative;\n  display: flex;\n  flex-wrap: wrap;\n  align-items: stretch;\n  width: 100%;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : ".form-control",            
+            "Value" : [
+                
+                {
+                    "Key" : ".form-control",                    
+                    "Value" : [
+                        ".form-control {\n  display: block;\n  width: 100%;\n  padding: 0.4375rem 0;\n  font-size: 1rem;\n  line-height: 1.5;\n  color: #495057;\n  background-color: rgba(0, 0, 0, 0);\n  background-clip: padding-box;\n  border: 1px solid #d2d2d2;\n  border-radius: 0;\n  box-shadow: none;\n  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}",".form-control {\n  background: no-repeat center bottom, center calc(100% - 1px);\n  background-size: 0 100%, 100% 100%;\n  border: 0;\n  height: 36px;\n  transition: background 0s ease-out;\n  padding-left: 0;\n  padding-right: 0;\n  border-radius: 0;\n  font-size: 14px;\n}"
+                    ]
+                },
+                {
+                    "Key" : ".form-control,.is-focused .form-control",                    
+                    "Value" : [
+                        ".form-control,\n.is-focused .form-control {\n  background-image: linear-gradient(to top, #9c27b0 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);\n}"
+                    ]
+                },
+                {
+                    "Key" : ".form-control,\nlabel,\ninput::placeholder",                    
+                    "Value" : [
+                        ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : ".is-focused .form-control",            
+            "Value" : [
+                
+                {
+                    "Key" : ".form-control,.is-focused .form-control",                    
+                    "Value" : [
+                        ".form-control,\n.is-focused .form-control {\n  background-image: linear-gradient(to top, #9c27b0 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "label",            
+            "Value" : [
+                
+                {
+                    "Key" : ".form-control,\nlabel,\ninput::placeholder",                    
+                    "Value" : [
+                        ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "input::placeholder",            
+            "Value" : [
+                
+                {
+                    "Key" : ".form-control,\nlabel,\ninput::placeholder",                    
+                    "Value" : [
+                        ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : ".btn",            
+            "Value" : [
+                
+                {
+                    "Key" : ".btn",                    
+                    "Value" : [
+                        ".btn {\n  display: inline-block;\n  font-weight: 400;\n  text-align: center;\n  white-space: nowrap;\n  vertical-align: middle;\n  user-select: none;\n  border: 1px solid transparent;\n  padding: 0.46875rem 1rem;\n  font-size: 1rem;\n  line-height: 1.5;\n  border-radius: 0.25rem;\n  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}",".btn {\n  position: relative;\n  padding: 12px 30px;\n  margin: 0.3125rem 1px;\n  font-size: .75rem;\n  font-weight: 400;\n  line-height: 1.428571;\n  text-decoration: none;\n  text-transform: uppercase;\n  letter-spacing: 0;\n  cursor: pointer;\n  background-color: transparent;\n  border: 0;\n  border-radius: 0.2rem;\n  outline: 0;\n  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);\n  will-change: box-shadow, transform;\n}"
+                    ]
+                },
+                {
+                    "Key" : ".btn,.btn.btn-default",                    
+                    "Value" : [
+                        ".btn,\n.btn.btn-default {\n  color: #fff;\n  background-color: #999999;\n  border-color: #999999;\n  box-shadow: 0 2px 2px 0 rgba(153, 153, 153, 0.14), 0 3px 1px -2px rgba(153, 153, 153, 0.2), 0 1px 5px 0 rgba(153, 153, 153, 0.12);\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : ".btn.btn-default",            
+            "Value" : [
+                
+                {
+                    "Key" : ".btn,.btn.btn-default",                    
+                    "Value" : [
+                        ".btn,\n.btn.btn-default {\n  color: #fff;\n  background-color: #999999;\n  border-color: #999999;\n  box-shadow: 0 2px 2px 0 rgba(153, 153, 153, 0.14), 0 3px 1px -2px rgba(153, 153, 153, 0.2), 0 1px 5px 0 rgba(153, 153, 153, 0.12);\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : ".ripple-container",            
+            "Value" : [
+                
+                {
+                    "Key" : ".ripple-container",                    
+                    "Value" : [
+                        ".ripple-container {\n  position: absolute;\n  top: 0;\n  left: 0;\n  z-index: 1;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n  pointer-events: none;\n  border-radius: inherit;\n}"
+                    ]
+                }
+            ]
+        }
+    ],    
+    "MediaRuleList" : [
+        
+    ]
+}

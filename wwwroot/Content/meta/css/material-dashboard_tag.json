@@ -1,38 +1,47 @@
 {
     "form" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "input,button,select,optgroup,textarea" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "button,input" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "button" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "button,select" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "button,html [type=\"button\"],[type=\"reset\"],[type=\"submit\"]" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "ol,ul,dl" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "a" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+    ],    
+    "p" : [
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "html" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "body" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "*,*::before,*::after" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ],    
     "*" : [
-        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html"
+        "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
     ]
 }

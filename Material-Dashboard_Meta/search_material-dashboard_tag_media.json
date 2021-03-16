@@ -1,0 +1,42 @@
+{
+    "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html",    
+    "StylesheetName" : "material-dashboard_tag_media.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/wwwroot/Content/meta/css/material-dashboard_tag_media.css",    
+    "HtmlTagList" : [
+        "form","div","input","button","i","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "navbar-form","input-group","no-border","form-control","btn","btn-white","btn-round","btn-just-icon","material-icons","ripple-container"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "form","div","input","button","i","main","*"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".navbar-form",".input-group",".no-border",".form-control",".btn",".btn-white",".btn-round",".btn-just-icon",".material-icons",".ripple-container"
+    ],    
+    "CssTagStyleList" : [
+        
+    ],    
+    "CssClassStyleList" : [
+        
+    ],    
+    "CssTagMediaList" : [
+        
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }}",            
+            "Value" : [
+                "html,\n  body }{\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nbody {\n    position: relative;\n  }\n}\n@media print {body }{\nbody {\n    min-width: 992px !important;\n  }\n}\n@media print {*,\n  *::before,\n  *::after }{\n*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }\n}"
+            ]
+        }
+    ],    
+    "CssClassMediaList" : [
+        
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

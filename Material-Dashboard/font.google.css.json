@@ -1,0 +1,459 @@
+{
+    "StylesheetName" : "font.google.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/font.google.css",    
+    "ParseTimeInSec" : 0,    
+    "ParseStyleTimeInSec" : 0,    
+    "ParseMediaTimeInSec" : 0,    
+    "LoadTimeInSec" : 0,    
+    "FontRuleList" : [
+        
+        {
+            "Key" : "@font-face { font-family: \"Material Icons\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/materialicons/v81/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2\") format(\"woff2\") }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/materialicons/v81/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0460-052F, 1C80-1C88, 20B4, 2DE0-2DFF, A640-A69F, FE2E-FE2F }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0400-045F, 0490-0491, 04B0-04B1, 2116 }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 1F00-1FFF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0370-03FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0102-0103, 0110-0111, 0128-0129, 0168-0169, 01A0-01A1, 01AF-01B0, 1EA0-1EF9, 20AB }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0100-024F, 0259, 1E00-1EFF, 2020, 20A0-20AB, 20AD-20CF, 2113, 2C60-2C7F, A720-A7FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2\") format(\"woff2\"); unicode-range: 0000-00FF, 0131, 0152-0153, 02BB-02BC, 02C6, 02DA, 02DC, 2000-206F, 2074, 20AC, 2122, 2191, 2193, 2212, 2215, FEFF, FFFD }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2\") format(\"woff2\"); unicode-range: 0460-052F, 1C80-1C88, 20B4, 2DE0-2DFF, A640-A69F, FE2E-FE2F }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2\") format(\"woff2\"); unicode-range: 0400-045F, 0490-0491, 04B0-04B1, 2116 }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2\") format(\"woff2\"); unicode-range: 1F00-1FFF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2\") format(\"woff2\"); unicode-range: 0370-03FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2\") format(\"woff2\"); unicode-range: 0102-0103, 0110-0111, 0128-0129, 0168-0169, 01A0-01A1, 01AF-01B0, 1EA0-1EF9, 20AB }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2\") format(\"woff2\"); unicode-range: 0100-024F, 0259, 1E00-1EFF, 2020, 20A0-20AB, 20AD-20CF, 2113, 2C60-2C7F, A720-A7FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2\") format(\"woff2\"); unicode-range: 0000-00FF, 0131, 0152-0153, 02BB-02BC, 02C6, 02DA, 02DC, 2000-206F, 2074, 20AC, 2122, 2191, 2193, 2212, 2215, FEFF, FFFD }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0460-052F, 1C80-1C88, 20B4, 2DE0-2DFF, A640-A69F, FE2E-FE2F }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0400-045F, 0490-0491, 04B0-04B1, 2116 }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 1F00-1FFF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0370-03FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0102-0103, 0110-0111, 0128-0129, 0168-0169, 01A0-01A1, 01AF-01B0, 1EA0-1EF9, 20AB }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0100-024F, 0259, 1E00-1EFF, 2020, 20A0-20AB, 20AD-20CF, 2113, 2C60-2C7F, A720-A7FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 500; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2\") format(\"woff2\"); unicode-range: 0000-00FF, 0131, 0152-0153, 02BB-02BC, 02C6, 02DA, 02DC, 2000-206F, 2074, 20AC, 2122, 2191, 2193, 2212, 2215, FEFF, FFFD }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0460-052F, 1C80-1C88, 20B4, 2DE0-2DFF, A640-A69F, FE2E-FE2F }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0400-045F, 0490-0491, 04B0-04B1, 2116 }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 1F00-1FFF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0370-03FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0102-0103, 0110-0111, 0128-0129, 0168-0169, 01A0-01A1, 01AF-01B0, 1EA0-1EF9, 20AB }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2\") format(\"woff2\"); unicode-range: 0100-024F, 0259, 1E00-1EFF, 2020, 20A0-20AB, 20AD-20CF, 2113, 2C60-2C7F, A720-A7FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2\") format(\"woff2\"); unicode-range: 0000-00FF, 0131, 0152-0153, 02BB-02BC, 02C6, 02DA, 02DC, 2000-206F, 2074, 20AC, 2122, 2191, 2193, 2212, 2215, FEFF, FFFD }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0460-052F, 1C80-1C88, 20B4, 2DE0-2DFF, A640-A69F, FE2E-FE2F }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0400-045F, 0490-0491, 04B0-04B1, 2116 }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 1F00-1FFF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0370-03FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0102-0103, 0110-0111, 0128-0129, 0168-0169, 01A0-01A1, 01AF-01B0, 1EA0-1EF9, 20AB }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0100-024F, 0259, 1E00-1EFF, 2020, 20A0-20AB, 20AD-20CF, 2113, 2C60-2C7F, A720-A7FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 400; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2\") format(\"woff2\"); unicode-range: 0000-00FF, 0131, 0152-0153, 02BB-02BC, 02C6, 02DA, 02DC, 2000-206F, 2074, 20AC, 2122, 2191, 2193, 2212, 2215, FEFF, FFFD }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0460-052F, 1C80-1C88, 20B4, 2DE0-2DFF, A640-A69F, FE2E-FE2F }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0400-045F, 0490-0491, 04B0-04B1, 2116 }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 1F00-1FFF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0370-03FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0102-0103, 0110-0111, 0128-0129, 0168-0169, 01A0-01A1, 01AF-01B0, 1EA0-1EF9, 20AB }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2\") format(\"woff2\"); unicode-range: 0100-024F, 0259, 1E00-1EFF, 2020, 20A0-20AB, 20AD-20CF, 2113, 2C60-2C7F, A720-A7FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Roboto Slab\"; font-style: normal; font-weight: 700; src: url(\"https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2\") format(\"woff2\"); unicode-range: 0000-00FF, 0131, 0152-0153, 02BB-02BC, 02C6, 02DA, 02DC, 2000-206F, 2074, 20AC, 2122, 2191, 2193, 2212, 2215, FEFF, FFFD }",            
+            "Value" : [
+                
+                {
+                    "Key" : "https://fonts.gstatic.com/s/robotoslab/v13/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",                    
+                    "Value" : ""
+                }
+            ]
+        }
+    ],    
+    "StyleRuleList" : [
+        
+        {
+            "Key" : ".material-icons",            
+            "Value" : [
+                
+                {
+                    "Key" : ".material-icons",                    
+                    "Value" : [
+                        ".material-icons {\n    font-family: 'Material Icons';\n    font-weight: normal;\n    font-style: normal;\n    font-size: 24px;\n    line-height: 1;\n    letter-spacing: normal;\n    text-transform: none;\n    display: inline-block;\n    white-space: nowrap;\n    word-wrap: normal;\n    direction: ltr;\n    -webkit-font-feature-settings: 'liga';\n    -webkit-font-smoothing: antialiased;\n  }"
+                    ]
+                }
+            ]
+        }
+    ],    
+    "MediaRuleList" : [
+        
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Search/search.html",    
+    "StylesheetName" : "material-dashboard_tag.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/wwwroot/Content/meta/css/material-dashboard_tag.css",    
+    "HtmlTagList" : [
+        "form","div","input","button","i","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "navbar-form","input-group","no-border","form-control","btn","btn-white","btn-round","btn-just-icon","material-icons","ripple-container"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div","i"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".navbar-form",".input-group",".no-border",".form-control",".btn",".btn-white",".btn-round",".btn-just-icon",".material-icons",".ripple-container"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "form",            
+            "Value" : [
+                "form {\n  margin-bottom: 1.125rem;\n}"
+            ]
+        },
+        {
+            "Key" : "input,button,select,optgroup,textarea",            
+            "Value" : [
+                "input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}","input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "button,input",            
+            "Value" : [
+                "button,\ninput {\n  overflow: visible;\n}","button,\ninput {\n  overflow: visible;\n}"
+            ]
+        },
+        {
+            "Key" : "button",            
+            "Value" : [
+                "button {\n  border-radius: 0;\n}","button {\n  border-radius: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "button,select",            
+            "Value" : [
+                "button,\nselect {\n  text-transform: none;\n}","button,\nselect {\n  text-transform: none;\n}"
+            ]
+        },
+        {
+            "Key" : "button,html [type=\"button\"],[type=\"reset\"],[type=\"submit\"]",            
+            "Value" : [
+                "button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}","button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}","html {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}","body {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}","body {\n  background-color: #eee;\n  color: #3C4858;\n  font-weight: 300;\n}"
+            ]
+        },
+        {
+            "Key" : "body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4",            
+            "Value" : [
+                "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4 {\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-weight: 300;\n  line-height: 1.5em;\n}"
+            ]
+        },
+        {
+            "Key" : "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section",            
+            "Value" : [
+                "article,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}","article,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}","*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}"
+            ]
+        },
+        {
+            "Key" : "*",            
+            "Value" : [
+                "* {\n  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);\n  -webkit-tap-highlight-color: transparent;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

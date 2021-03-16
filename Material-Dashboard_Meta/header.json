@@ -1,0 +1,444 @@
+{
+    "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html",    
+    "StylesheetName" : "material-dashboard-rtl.css,font.google.css,material-dashboard.min.css,material-dashboard.css,all.min.css,dynamic.css,material-dashboard_class.css,material-dashboard_tag_media.css,material-dashboard_tag.css",    
+    "RelativePath" : null,    
+    "HtmlTagList" : [
+        "div","form","span","input","button","i","ul","li","a","p","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "collapse","navbar-collapse","justify-content-end","navbar-form","bmd-form-group","input-group","no-border","form-control","btn","btn-white","btn-round","btn-just-icon","material-icons","ripple-container","navbar-nav","nav-item","nav-link","d-lg-none","d-md-block","dropdown","notification","dropdown-menu","dropdown-menu-right","dropdown-item","ripple-decorator","ripple-on","ripple-out","dropdown-divider"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div","span","input","i","ul","li","main"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".navbar-form",".no-border",".btn-white",".btn-round",".btn-just-icon",".nav-item",".notification",".dropdown-menu-right",".ripple-decorator",".ripple-on",".ripple-out"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "form",            
+            "Value" : [
+                "form{margin-bottom:1.125rem}"
+            ]
+        },
+        {
+            "Key" : "button,input,optgroup,select,textarea",            
+            "Value" : [
+                "button,input,optgroup,select,textarea{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}"
+            ]
+        },
+        {
+            "Key" : "button,input",            
+            "Value" : [
+                "button,input{overflow:visible}"
+            ]
+        },
+        {
+            "Key" : "button",            
+            "Value" : [
+                "button{border-radius:0}"
+            ]
+        },
+        {
+            "Key" : "button,select",            
+            "Value" : [
+                "button,select{text-transform:none}"
+            ]
+        },
+        {
+            "Key" : "[type=\"reset\"],[type=\"submit\"],button,html [type=\"button\"]",            
+            "Value" : [
+                "[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}"
+            ]
+        },
+        {
+            "Key" : "address,dl,ol,ul",            
+            "Value" : [
+                "address,dl,ol,ul{margin-bottom:1rem}"
+            ]
+        },
+        {
+            "Key" : "dl,ol,ul",            
+            "Value" : [
+                "dl,ol,ul{margin-top:0}"
+            ]
+        },
+        {
+            "Key" : "a",            
+            "Value" : [
+                "a{text-decoration:none;background-color:transparent;-webkit-text-decoration-skip:objects}","a{color:#9c27b0}"
+            ]
+        },
+        {
+            "Key" : "p",            
+            "Value" : [
+                "p{margin-top:0;margin-bottom:1rem}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:rgba(0,0,0,0)}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body{margin:0;font-family:Roboto,Helvetica,Arial,sans-serif;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fafafa}","body{background-color:#eee;color:#3c4858;font-weight:300}"
+            ]
+        },
+        {
+            "Key" : ".h1,.h2,.h3,.h4,body,h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                ".h1,.h2,.h3,.h4,body,h1,h2,h3,h4,h5,h6{font-family:Roboto,Helvetica,Arial,sans-serif;font-weight:300;line-height:1.5em}"
+            ]
+        },
+        {
+            "Key" : "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section",            
+            "Value" : [
+                "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}"
+            ]
+        },
+        {
+            "Key" : "*,::after,::before",            
+            "Value" : [
+                "*,:after,:before{box-sizing:border-box}"
+            ]
+        },
+        {
+            "Key" : "*",            
+            "Value" : [
+                "*{-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-tap-highlight-color:transparent}"
+            ]
+        },
+        {
+            "Key" : "input,button,select,optgroup,textarea",            
+            "Value" : [
+                "input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}","input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "button,html [type=\"button\"],[type=\"reset\"],[type=\"submit\"]",            
+            "Value" : [
+                "button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}","button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}"
+            ]
+        },
+        {
+            "Key" : "ol,ul,dl",            
+            "Value" : [
+                "ol,\nul,\ndl {\n  margin-top: 0;\n  margin-bottom: 1rem;\n}","ol,\nul,\ndl {\n  margin-top: 0;\n  margin-bottom: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : "body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4",            
+            "Value" : [
+                "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4 {\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-weight: 300;\n  line-height: 1.5em;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}","*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}"
+            ]
+        },
+        {
+            "Key" : ".form-control,\nlabel,\ninput::placeholder",            
+            "Value" : [
+                ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".material-icons",            
+            "Value" : [
+                ".material-icons {\n    font-family: 'Material Icons';\n    font-weight: normal;\n    font-style: normal;\n    font-size: 24px;\n    line-height: 1;\n    letter-spacing: normal;\n    text-transform: none;\n    display: inline-block;\n    white-space: nowrap;\n    word-wrap: normal;\n    direction: ltr;\n    -webkit-font-feature-settings: 'liga';\n    -webkit-font-smoothing: antialiased;\n  }"
+            ]
+        },
+        {
+            "Key" : ".collapse",            
+            "Value" : [
+                ".collapse{display:none}"
+            ]
+        },
+        {
+            "Key" : ".navbar-collapse",            
+            "Value" : [
+                ".navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}"
+            ]
+        },
+        {
+            "Key" : ".justify-content-end",            
+            "Value" : [
+                ".justify-content-end{justify-content:flex-end!important}"
+            ]
+        },
+        {
+            "Key" : ".bmd-form-group",            
+            "Value" : [
+                ".bmd-form-group{position:relative}"
+            ]
+        },
+        {
+            "Key" : ".input-group",            
+            "Value" : [
+                ".input-group{position:relative;display:flex;flex-wrap:wrap;align-items:stretch;width:100%}"
+            ]
+        },
+        {
+            "Key" : ".form-control",            
+            "Value" : [
+                ".form-control{display:block;width:100%;padding:.4375rem 0;font-size:1rem;line-height:1.5;color:#495057;background-color:transparent;background-clip:padding-box;border:1px solid #d2d2d2;box-shadow:none;transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out}",".form-control{background:no-repeat bottom,50% calc(100% - 1px);background-size:0 100%,100% 100%;border:0;height:36px;transition:background 0s ease-out;padding-left:0;padding-right:0;border-radius:0;font-size:14px}"
+            ]
+        },
+        {
+            "Key" : ".form-control,.is-focused .form-control",            
+            "Value" : [
+                ".form-control,.is-focused .form-control{background-image:linear-gradient(0deg,#9c27b0 2px,rgba(156,39,176,0) 0),linear-gradient(0deg,#d2d2d2 1px,hsla(0,0%,82%,0) 0)}"
+            ]
+        },
+        {
+            "Key" : ".form-control,input::placeholder,label",            
+            "Value" : [
+                ".form-control,input::placeholder,label{line-height:1.1}"
+            ]
+        },
+        {
+            "Key" : ".btn",            
+            "Value" : [
+                ".btn{display:inline-block;text-align:center;white-space:nowrap;vertical-align:middle;user-select:none;border:1px solid transparent;padding:.46875rem 1rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out}",".btn{position:relative;padding:12px 30px;margin:.3125rem 1px;font-size:.75rem;font-weight:400;line-height:1.428571;text-decoration:none;text-transform:uppercase;letter-spacing:0;cursor:pointer;background-color:transparent;border:0;border-radius:.2rem;transition:box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1);will-change:box-shadow,transform}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus",            
+            "Value" : [
+                ".btn,.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus{outline:0}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn.btn-default",            
+            "Value" : [
+                ".btn,.btn.btn-default{color:#fff;background-color:#999;border-color:#999;box-shadow:0 2px 2px 0 hsla(0,0%,60%,.14),0 3px 1px -2px hsla(0,0%,60%,.2),0 1px 5px 0 hsla(0,0%,60%,.12)}"
+            ]
+        },
+        {
+            "Key" : ".ripple-container",            
+            "Value" : [
+                ".ripple-container{position:absolute;top:0;left:0;z-index:1;width:100%;height:100%;overflow:hidden;pointer-events:none;border-radius:inherit}"
+            ]
+        },
+        {
+            "Key" : ".navbar-nav",            
+            "Value" : [
+                ".navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}"
+            ]
+        },
+        {
+            "Key" : ".nav-link",            
+            "Value" : [
+                ".nav-link{display:block;padding:.5rem 1rem}"
+            ]
+        },
+        {
+            "Key" : ".collapsing,.dropdown,.dropup",            
+            "Value" : [
+                ".collapsing,.dropdown,.dropup{position:relative}"
+            ]
+        },
+        {
+            "Key" : ".dropdown-menu",            
+            "Value" : [
+                ".dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;float:left;min-width:10rem;padding:.5rem 0;margin:.125rem 0 0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem;box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12)}",".dropdown-menu{display:none;padding:.3125rem 0;border:0;opacity:0;transform:scale(0);transform-origin:0 0;will-change:transform,opacity;transition:transform .3s cubic-bezier(.4,0,.2,1),opacity .2s cubic-bezier(.4,0,.2,1);box-shadow:0 2px 5px 0 rgba(0,0,0,.26)}"
+            ]
+        },
+        {
+            "Key" : ".dropdown-item",            
+            "Value" : [
+                ".dropdown-item{display:block;width:100%;padding:.625rem 1.25rem;clear:both;font-weight:400;color:#212529;text-align:inherit;white-space:nowrap;background-color:transparent;border:0}"
+            ]
+        },
+        {
+            "Key" : ".dropdown-divider",            
+            "Value" : [
+                ".dropdown-divider{height:0;margin:.5rem 0;overflow:hidden;border-top:1px solid #e9ecef}"
+            ]
+        },
+        {
+            "Key" : ".form-control,\nlabel,\ninput::placeholder",            
+            "Value" : [
+                ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+            ]
+        },
+        {
+            "Key" : ".dropup,.dropdown",            
+            "Value" : [
+                ".dropup,\n.dropdown {\n  position: relative;\n}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+        {
+            "Key" : "@media print {a:not(.btn)}",            
+            "Value" : [
+                "a:not(.btn){text-decoration:underline}"
+            ]
+        },
+        {
+            "Key" : "@media print {h2,h3,p}",            
+            "Value" : [
+                "h2,h3,p{orphans:3;widows:3}"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {body,html}",            
+            "Value" : [
+                "body,html{overflow-x:hidden}"
+            ]
+        },
+        {
+            "Key" : "@media print {.container,body}",            
+            "Value" : [
+                ".container,body{min-width:992px!important}"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {body,html}_1",            
+            "Value" : [
+                "body,html{overflow-x:hidden}","body{position:relative}"
+            ]
+        },
+        {
+            "Key" : "@media print {*,:after,:before}",            
+            "Value" : [
+                "*,:after,:before{text-shadow:none!important;box-shadow:none!important}"
+            ]
+        },
+        {
+            "Key" : "@media print {a:not(.btn) }",            
+            "Value" : [
+                "a:not(.btn) {\n    text-decoration: underline;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {p,\n  h2,\n  h3 }",            
+            "Value" : [
+                "p,\n  h2,\n  h3 {\n    orphans: 3;\n    widows: 3;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }",            
+            "Value" : [
+                "html,\n  body {\n    overflow-x: hidden;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {body }",            
+            "Value" : [
+                "body {\n    min-width: 992px !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }_1",            
+            "Value" : [
+                "html,\n  body {\n    overflow-x: hidden;\n  }","body {\n    position: relative;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {*,\n  *::before,\n  *::after }",            
+            "Value" : [
+                "*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {body,html}}",            
+            "Value" : [
+                "body,html}{\nbody,html{overflow-x:hidden}\nbody,html{overflow-x:hidden}\nbody{position:relative}\n}\n@media print {.container,body}{\n.container,body{min-width:992px!important}\n}\n@media print {*,:after,:before}{\n*,:after,:before{text-shadow:none!important;box-shadow:none!important}\n}\n\nform {\n  margin-bottom: 1.125rem;\n}\n\ninput,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}\ninput,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}\n\nbutton,\ninput {\n  overflow: visible;\n}\nbutton,\ninput {\n  overflow: visible;\n}\n\nbutton {\n  border-radius: 0;\n}\nbutton {\n  border-radius: 0;\n}\n\nbutton,\nselect {\n  text-transform: none;\n}\nbutton,\nselect {\n  text-transform: none;\n}\n\nbutton,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}\nbutton,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}\n\nhtml {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\nhtml {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n\nbody {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}\nbody {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}\nbody {\n  background-color: #eee;\n  color: #3C4858;\n  font-weight: 300;\n}\n\nbody,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4 {\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-weight: 300;\n  line-height: 1.5em;\n}\n\narticle,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}\narticle,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}\n\n*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\n* {\n  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);\n  -webkit-tap-highlight-color: transparent;\n}\n\n.input-group {\n  position: relative;\n  display: flex;\n  flex-wrap: wrap;\n  align-items: stretch;\n  width: 100%;\n}\n\n.form-control {\n  display: block;\n  width: 100%;\n  padding: 0.4375rem 0;\n  font-size: 1rem;\n  line-height: 1.5;\n  color: #495057;\n  background-color: rgba(0, 0, 0, 0);\n  background-clip: padding-box;\n  border: 1px solid #d2d2d2;\n  border-radius: 0;\n  box-shadow: none;\n  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}\n.form-control {\n  background: no-repeat center bottom, center calc(100% - 1px);\n  background-size: 0 100%, 100% 100%;\n  border: 0;\n  height: 36px;\n  transition: background 0s ease-out;\n  padding-left: 0;\n  padding-right: 0;\n  border-radius: 0;\n  font-size: 14px;\n}\n\n.form-control,\n.is-focused .form-control {\n  background-image: linear-gradient(to top, #9c27b0 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);\n}\n\n.form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}\n\n.btn {\n  display: inline-block;\n  font-weight: 400;\n  text-align: center;\n  white-space: nowrap;\n  vertical-align: middle;\n  user-select: none;\n  border: 1px solid transparent;\n  padding: 0.46875rem 1rem;\n  font-size: 1rem;\n  line-height: 1.5;\n  border-radius: 0.25rem;\n  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}\n.btn {\n  position: relative;\n  padding: 12px 30px;\n  margin: 0.3125rem 1px;\n  font-size: .75rem;\n  font-weight: 400;\n  line-height: 1.428571;\n  text-decoration: none;\n  text-transform: uppercase;\n  letter-spacing: 0;\n  cursor: pointer;\n  background-color: transparent;\n  border: 0;\n  border-radius: 0.2rem;\n  outline: 0;\n  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);\n  will-change: box-shadow, transform;\n}\n\n.btn,\n.btn.btn-default {\n  color: #fff;\n  background-color: #999999;\n  border-color: #999999;\n  box-shadow: 0 2px 2px 0 rgba(153, 153, 153, 0.14), 0 3px 1px -2px rgba(153, 153, 153, 0.2), 0 1px 5px 0 rgba(153, 153, 153, 0.12);\n}\n\n.ripple-container {\n  position: absolute;\n  top: 0;\n  left: 0;\n  z-index: 1;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n  pointer-events: none;\n  border-radius: inherit;\n}\n\n\n\n\n@media (max-width: 991px) {html,\n  body }{\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nbody {\n    position: relative;\n  }\n}\n@media print {body }{\nbody {\n    min-width: 992px !important;\n  }\n}\n@media print {*,\n  *::before,\n  *::after }{\n*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }\n}\n\n"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }}",            
+            "Value" : [
+                "html,\n  body }{\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nbody {\n    position: relative;\n  }\n}\n@media print {body }{\nbody {\n    min-width: 992px !important;\n  }\n}\n@media print {*,\n  *::before,\n  *::after }{\n*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }\n}"
+            ]
+        }
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media (max-width: 991px) {.navbar-collapse}",            
+            "Value" : [
+                ".navbar-collapse{position:fixed;display:block;top:0;height:100vh;width:230px;right:0;margin-right:0!important;z-index:1032;visibility:visible;background-color:#999;overflow-y:visible;border-top:none;text-align:left;padding-right:0;padding-left:0;max-height:none!important;transform:translate3d(230px,0,0);transition:all .5s cubic-bezier(.685,.0473,.346,1)}",".main-panel,.navbar-collapse{transition:all .33s cubic-bezier(.685,.0473,.346,1)}"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.navbar-nav}",            
+            "Value" : [
+                ".navbar-nav{margin:1px 0}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 992px) {.d-lg-none}",            
+            "Value" : [
+                ".d-lg-none{display:none!important}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.d-md-block}",            
+            "Value" : [
+                ".d-md-block{display:block!important}"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.dropdown-menu}",            
+            "Value" : [
+                ".dropdown-menu{display:none}"
+            ]
+        },
+        {
+            "Key" : "@media all and (max-width: 991px) {.navbar-collapse }",            
+            "Value" : [
+                ".navbar-collapse {\n    position: fixed;\n    display: block;\n    top: 0px;\n    height: 100vh;\n    width: 230px;\n    right: 0;\n    margin-right: 0 !important;\n    z-index: 1032;\n    visibility: visible;\n    background-color: #999;\n    overflow-y: visible;\n    border-top: none;\n    text-align: left;\n    padding-right: 0;\n    padding-left: 0;\n    max-height: none !important;\n    -webkit-transform: translate3d(230px, 0, 0);\n    -moz-transform: translate3d(230px, 0, 0);\n    -o-transform: translate3d(230px, 0, 0);\n    -ms-transform: translate3d(230px, 0, 0);\n    transform: translate3d(230px, 0, 0);\n    -webkit-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -moz-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -o-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -ms-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.main-panel,\n  .navbar-collapse }",            
+            "Value" : [
+                ".main-panel,\n  .navbar-collapse {\n    -webkit-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -moz-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -o-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -ms-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.navbar-nav }",            
+            "Value" : [
+                ".navbar-nav {\n    margin: 1px 0;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 992px) {.d-lg-none }",            
+            "Value" : [
+                ".d-lg-none {\n    display: none !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.d-md-block }",            
+            "Value" : [
+                ".d-md-block {\n    display: block !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.dropdown-menu }",            
+            "Value" : [
+                ".dropdown-menu {\n    display: none;\n  }"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

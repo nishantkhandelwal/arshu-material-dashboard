@@ -1,0 +1,440 @@
+{
+    "ComponentPath" : "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html",    
+    "StylesheetName" : "material-dashboard.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/Material-Dashboard/material-dashboard.css",    
+    "HtmlTagList" : [
+        "div","form","span","input","button","i","ul","li","a","p","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "collapse","navbar-collapse","justify-content-end","navbar-form","bmd-form-group","input-group","no-border","form-control","btn","btn-white","btn-round","btn-just-icon","material-icons","ripple-container","navbar-nav","nav-item","nav-link","d-lg-none","d-md-block","dropdown","notification","dropdown-menu","dropdown-menu-right","dropdown-item","ripple-decorator","ripple-on","ripple-out","dropdown-divider"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div","span","i","li"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".navbar-form",".no-border",".btn-white",".btn-round",".btn-just-icon",".material-icons",".nav-item",".notification",".dropdown-menu-right",".ripple-decorator",".ripple-on",".ripple-out"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "form",            
+            "Value" : [
+                "form {\n  margin-bottom: 1.125rem;\n}"
+            ]
+        },
+        {
+            "Key" : "input,button,select,optgroup,textarea",            
+            "Value" : [
+                "input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}","input,\nbutton,\nselect,\noptgroup,\ntextarea {\n  margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : "button,input",            
+            "Value" : [
+                "button,\ninput {\n  overflow: visible;\n}","button,\ninput {\n  overflow: visible;\n}"
+            ]
+        },
+        {
+            "Key" : "button",            
+            "Value" : [
+                "button {\n  border-radius: 0;\n}","button {\n  border-radius: 0;\n}"
+            ]
+        },
+        {
+            "Key" : "button,select",            
+            "Value" : [
+                "button,\nselect {\n  text-transform: none;\n}","button,\nselect {\n  text-transform: none;\n}"
+            ]
+        },
+        {
+            "Key" : "button,html [type=\"button\"],[type=\"reset\"],[type=\"submit\"]",            
+            "Value" : [
+                "button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}","button,\nhtml [type=\"button\"],\n[type=\"reset\"],\n[type=\"submit\"] {\n  -webkit-appearance: button;\n}"
+            ]
+        },
+        {
+            "Key" : "ol,ul,dl",            
+            "Value" : [
+                "ol,\nul,\ndl {\n  margin-top: 0;\n  margin-bottom: 1rem;\n}","ol,\nul,\ndl {\n  margin-top: 0;\n  margin-bottom: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : "a",            
+            "Value" : [
+                "a {\n  color: #9c27b0;\n  text-decoration: none;\n  background-color: transparent;\n  -webkit-text-decoration-skip: objects;\n}","a {\n  color: #9c27b0;\n  text-decoration: none;\n  background-color: transparent;\n  -webkit-text-decoration-skip: objects;\n}","a {\n  color: #9c27b0;\n}"
+            ]
+        },
+        {
+            "Key" : "p",            
+            "Value" : [
+                "p {\n  margin-top: 0;\n  margin-bottom: 1rem;\n}","p {\n  margin-top: 0;\n  margin-bottom: 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}","html {\n  font-family: sans-serif;\n  line-height: 1.15;\n  -webkit-text-size-adjust: 100%;\n  -ms-text-size-adjust: 100%;\n  -ms-overflow-style: scrollbar;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}","body {\n  margin: 0;\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #212529;\n  text-align: left;\n  background-color: #fafafa;\n}","body {\n  background-color: #eee;\n  color: #3C4858;\n  font-weight: 300;\n}"
+            ]
+        },
+        {
+            "Key" : "body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4",            
+            "Value" : [
+                "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4 {\n  font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\n  font-weight: 300;\n  line-height: 1.5em;\n}"
+            ]
+        },
+        {
+            "Key" : "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section",            
+            "Value" : [
+                "article,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}","article,\naside,\ndialog,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection {\n  display: block;\n}"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}","*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}"
+            ]
+        },
+        {
+            "Key" : "*",            
+            "Value" : [
+                "* {\n  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);\n  -webkit-tap-highlight-color: transparent;\n}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".collapse",            
+            "Value" : [
+                ".collapse {\n  display: none;\n}"
+            ]
+        },
+        {
+            "Key" : ".navbar-collapse",            
+            "Value" : [
+                ".navbar-collapse {\n  flex-basis: 100%;\n  flex-grow: 1;\n  align-items: center;\n}"
+            ]
+        },
+        {
+            "Key" : ".justify-content-end",            
+            "Value" : [
+                ".justify-content-end {\n  justify-content: flex-end !important;\n}"
+            ]
+        },
+        {
+            "Key" : ".bmd-form-group",            
+            "Value" : [
+                ".bmd-form-group {\n  position: relative;\n}"
+            ]
+        },
+        {
+            "Key" : ".input-group",            
+            "Value" : [
+                ".input-group {\n  position: relative;\n  display: flex;\n  flex-wrap: wrap;\n  align-items: stretch;\n  width: 100%;\n}"
+            ]
+        },
+        {
+            "Key" : ".form-control",            
+            "Value" : [
+                ".form-control {\n  display: block;\n  width: 100%;\n  padding: 0.4375rem 0;\n  font-size: 1rem;\n  line-height: 1.5;\n  color: #495057;\n  background-color: rgba(0, 0, 0, 0);\n  background-clip: padding-box;\n  border: 1px solid #d2d2d2;\n  border-radius: 0;\n  box-shadow: none;\n  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}",".form-control {\n  background: no-repeat center bottom, center calc(100% - 1px);\n  background-size: 0 100%, 100% 100%;\n  border: 0;\n  height: 36px;\n  transition: background 0s ease-out;\n  padding-left: 0;\n  padding-right: 0;\n  border-radius: 0;\n  font-size: 14px;\n}"
+            ]
+        },
+        {
+            "Key" : ".form-control,.is-focused .form-control",            
+            "Value" : [
+                ".form-control,\n.is-focused .form-control {\n  background-image: linear-gradient(to top, #9c27b0 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);\n}"
+            ]
+        },
+        {
+            "Key" : ".form-control,\nlabel,\ninput::placeholder",            
+            "Value" : [
+                ".form-control,\nlabel,\ninput::placeholder {\n  line-height: 1.1;\n}"
+            ]
+        },
+        {
+            "Key" : ".btn",            
+            "Value" : [
+                ".btn {\n  display: inline-block;\n  font-weight: 400;\n  text-align: center;\n  white-space: nowrap;\n  vertical-align: middle;\n  user-select: none;\n  border: 1px solid transparent;\n  padding: 0.46875rem 1rem;\n  font-size: 1rem;\n  line-height: 1.5;\n  border-radius: 0.25rem;\n  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n}",".btn {\n  position: relative;\n  padding: 12px 30px;\n  margin: 0.3125rem 1px;\n  font-size: .75rem;\n  font-weight: 400;\n  line-height: 1.428571;\n  text-decoration: none;\n  text-transform: uppercase;\n  letter-spacing: 0;\n  cursor: pointer;\n  background-color: transparent;\n  border: 0;\n  border-radius: 0.2rem;\n  outline: 0;\n  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);\n  will-change: box-shadow, transform;\n}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn.btn-default",            
+            "Value" : [
+                ".btn,\n.btn.btn-default {\n  color: #fff;\n  background-color: #999999;\n  border-color: #999999;\n  box-shadow: 0 2px 2px 0 rgba(153, 153, 153, 0.14), 0 3px 1px -2px rgba(153, 153, 153, 0.2), 0 1px 5px 0 rgba(153, 153, 153, 0.12);\n}"
+            ]
+        },
+        {
+            "Key" : ".ripple-container",            
+            "Value" : [
+                ".ripple-container {\n  position: absolute;\n  top: 0;\n  left: 0;\n  z-index: 1;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n  pointer-events: none;\n  border-radius: inherit;\n}"
+            ]
+        },
+        {
+            "Key" : ".navbar-nav",            
+            "Value" : [
+                ".navbar-nav {\n  display: flex;\n  flex-direction: column;\n  padding-left: 0;\n  margin-bottom: 0;\n  list-style: none;\n}"
+            ]
+        },
+        {
+            "Key" : ".nav-link",            
+            "Value" : [
+                ".nav-link {\n  display: block;\n  padding: 0.5rem 1rem;\n}"
+            ]
+        },
+        {
+            "Key" : ".dropup,.dropdown",            
+            "Value" : [
+                ".dropup,\n.dropdown {\n  position: relative;\n}"
+            ]
+        },
+        {
+            "Key" : ".dropdown-menu",            
+            "Value" : [
+                ".dropdown-menu {\n  position: absolute;\n  top: 100%;\n  left: 0;\n  z-index: 1000;\n  display: none;\n  float: left;\n  min-width: 10rem;\n  padding: 0.5rem 0;\n  margin: 0.125rem 0 0;\n  font-size: 1rem;\n  color: #212529;\n  text-align: left;\n  list-style: none;\n  background-color: #ffffff;\n  background-clip: padding-box;\n  border: 1px solid rgba(0, 0, 0, 0.15);\n  border-radius: 0.25rem;\n  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);\n}",".dropdown-menu {\n  display: none;\n  padding: 0.3125rem 0;\n  border: 0;\n  opacity: 0;\n  transform: scale(0);\n  transform-origin: 0 0;\n  will-change: transform, opacity;\n  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1);\n  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);\n}"
+            ]
+        },
+        {
+            "Key" : ".dropdown-item",            
+            "Value" : [
+                ".dropdown-item {\n  display: block;\n  width: 100%;\n  padding: 0.625rem 1.25rem;\n  clear: both;\n  font-weight: 400;\n  color: #212529;\n  text-align: inherit;\n  white-space: nowrap;\n  background-color: transparent;\n  border: 0;\n}"
+            ]
+        },
+        {
+            "Key" : ".dropdown-divider",            
+            "Value" : [
+                ".dropdown-divider {\n  height: 0;\n  margin: 0.5rem 0;\n  overflow: hidden;\n  border-top: 1px solid #e9ecef;\n}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+        {
+            "Key" : "@media print {a:not(.btn) }",            
+            "Value" : [
+                "a:not(.btn) {\n    text-decoration: underline;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {p,\n  h2,\n  h3 }",            
+            "Value" : [
+                "p,\n  h2,\n  h3 {\n    orphans: 3;\n    widows: 3;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }",            
+            "Value" : [
+                "html,\n  body {\n    overflow-x: hidden;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {body }",            
+            "Value" : [
+                "body {\n    min-width: 992px !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {html,\n  body }_1",            
+            "Value" : [
+                "html,\n  body {\n    overflow-x: hidden;\n  }","body {\n    position: relative;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media print {*,\n  *::before,\n  *::after }",            
+            "Value" : [
+                "*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }"
+            ]
+        }
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media all and (max-width: 991px) {.navbar-collapse }",            
+            "Value" : [
+                ".navbar-collapse {\n    position: fixed;\n    display: block;\n    top: 0px;\n    height: 100vh;\n    width: 230px;\n    right: 0;\n    margin-right: 0 !important;\n    z-index: 1032;\n    visibility: visible;\n    background-color: #999;\n    overflow-y: visible;\n    border-top: none;\n    text-align: left;\n    padding-right: 0;\n    padding-left: 0;\n    max-height: none !important;\n    -webkit-transform: translate3d(230px, 0, 0);\n    -moz-transform: translate3d(230px, 0, 0);\n    -o-transform: translate3d(230px, 0, 0);\n    -ms-transform: translate3d(230px, 0, 0);\n    transform: translate3d(230px, 0, 0);\n    -webkit-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -moz-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -o-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -ms-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.main-panel,\n  .navbar-collapse }",            
+            "Value" : [
+                ".main-panel,\n  .navbar-collapse {\n    -webkit-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -moz-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -o-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    -ms-transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n    transition: all 0.33s cubic-bezier(0.685, 0.0473, 0.346, 1);\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.navbar-nav }",            
+            "Value" : [
+                ".navbar-nav {\n    margin: 1px 0;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 992px) {.d-lg-none }",            
+            "Value" : [
+                ".d-lg-none {\n    display: none !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.d-md-block }",            
+            "Value" : [
+                ".d-md-block {\n    display: block !important;\n  }"
+            ]
+        },
+        {
+            "Key" : "@media (max-width: 991px) {.dropdown-menu }",            
+            "Value" : [
+                ".dropdown-menu {\n    display: none;\n  }"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : 
+    {
+        "form" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "input,button,select,optgroup,textarea" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "button,input" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "button" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "button,select" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "button,html [type=\"button\"],[type=\"reset\"],[type=\"submit\"]" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "ol,ul,dl" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "a" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "p" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "html" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "body" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "*,*::before,*::after" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "*" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ]
+    },    
+    "CssClassMeta" : 
+    {
+        ".collapse" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".navbar-collapse" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".justify-content-end" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".bmd-form-group" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".input-group" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".form-control" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".form-control,.is-focused .form-control" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".form-control,\nlabel,\ninput::placeholder" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".btn" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".btn,.btn.btn-default" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".ripple-container" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".navbar-nav" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".nav-link" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".dropup,.dropdown" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".dropdown-menu" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".dropdown-item" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        ".dropdown-divider" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html","Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ]
+    },    
+    "CssTagMediaMeta" : 
+    {
+        "@media print {a:not(.btn) }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media print {p,\n  h2,\n  h3 }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media (max-width: 991px) {html,\n  body }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media print {body }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media (max-width: 991px) {html,\n  body }_1" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media print {*,\n  *::before,\n  *::after }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ]
+    },    
+    "CssClassMediaMeta" : 
+    {
+        "@media all and (max-width: 991px) {.navbar-collapse }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media (max-width: 991px) {.main-panel,\n  .navbar-collapse }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media (max-width: 991px) {.navbar-nav }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media (min-width: 992px) {.d-lg-none }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media (min-width: 768px) {.d-md-block }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ],        
+        "@media (max-width: 991px) {.dropdown-menu }" : [
+            "Templates/arshu-material-dashboard/Material-Dashboard/Common/Header/header.html"
+        ]
+    }
+}

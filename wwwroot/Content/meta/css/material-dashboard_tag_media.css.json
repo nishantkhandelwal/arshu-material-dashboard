@@ -1,0 +1,41 @@
+{
+    "StylesheetName" : "material-dashboard_tag_media.css",    
+    "RelativePath" : "wwwroot/Templates/arshu-material-dashboard/wwwroot/Content/meta/css/material-dashboard_tag_media.css",    
+    "ParseTimeInSec" : 0,    
+    "ParseStyleTimeInSec" : 0,    
+    "ParseMediaTimeInSec" : 0,    
+    "LoadTimeInSec" : 0,    
+    "FontRuleList" : [
+        
+    ],    
+    "StyleRuleList" : [
+        
+    ],    
+    "MediaRuleList" : [
+        
+        {
+            "Key" : "html",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (max-width: 991px)",                    
+                    "Value" : [
+                        "html,\n  body }{\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nbody {\n    position: relative;\n  }\n}\n@media print {body }{\nbody {\n    min-width: 992px !important;\n  }\n}\n@media print {*,\n  *::before,\n  *::after }{\n*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }\n}"
+                    ]
+                }
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                
+                {
+                    "Key" : "@media (max-width: 991px)",                    
+                    "Value" : [
+                        "html,\n  body }{\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nhtml,\n  body {\n    overflow-x: hidden;\n  }\nbody {\n    position: relative;\n  }\n}\n@media print {body }{\nbody {\n    min-width: 992px !important;\n  }\n}\n@media print {*,\n  *::before,\n  *::after }{\n*,\n  *::before,\n  *::after {\n    text-shadow: none !important;\n    box-shadow: none !important;\n  }\n}"
+                    ]
+                }
+            ]
+        }
+    ]
+}
